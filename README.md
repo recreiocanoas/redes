@@ -35,5 +35,5 @@ Organizando o projeto em três partes, poderemos tratar dos assuntos correlatos 
 
 Para colaboração com o conteúdo do repositório é preciso [abrir uma conta gratuita no Github](https://pt.wikihow.com/Criar-uma-Conta-no-GitHub). A partir daí, você pode utilizar um workflow simplificado:
 
-1. Utilize a página de [discussões](https://github.com/recreiocanoas/redes/discussions) para cooperação  através de discussões focadas por assunto.
-2. Crie e/ou vote em uma [issue](https://github.com/recreiocanoas/redes/issues). As **issues** mais votadas pela comunidade ganham prioridade de forma natural e permitem uma avaliação do interesse geral em cada caso.
+1. Utilize a página de [discussions](https://github.com/recreiocanoas/redes/discussions) para cooperação  através de discussões focadas por assunto.
+2. Crie, adicione sua opinião e/ou vote em uma [issue](https://github.com/recreiocanoas/redes/issues). As **issues** mais votadas pela comunidade ganham prioridade de forma natural e permitem uma avaliação do interesse geral em cada caso.
