@@ -15,9 +15,11 @@ Este repositório de dados diz respeito a uma obra que trará muitos inconvenien
 
 - A obra irá envolver principalmente as áreas comuns, corredores, etc;
 - A obra irá adicionar um tráfego de peões que deve ser minimizado para evitar impactos sanitários;
-- A obra ameaça afetar as residências, devidos aos impactos no fornecimento de energia elétrica, entre outras;
-- A obra envolve a aprovação, tratamento financeiro e auditoria de cotas extras para as obras;
+- A obra ameaça afetar residências devido ao impacto no fornecimento de energia elétrica, entre outros;
+- A obra envolve a aprovação, tratamento financeiro e auditoria de cotas extras;
+- A obra requer investimento em uma solução global definitiva e não em remendos parciais descoordenados;
 - A obra envolve a contratação de empreiteiros habilitados para realização dos serviços;
+- A obra envolve a fiscalização e medição dos serviços realizados pelos empreiteiros.
 
 Tendo em vista o espaço limitado dos blocos para distribuição de dutos de energia, água, gás e sinais de comunicação é preciso considerar um projeto guarda-chuva que contemple a melhor solução possível. Desta forma, pode-se realizar o comissionamento das obras de forma ordenada e segura, sem precisar voltar atrás e retrabalhar o que já foi feito. O objetivo portanto é elaborar um panorama envolvendo:
 
