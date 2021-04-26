@@ -35,6 +35,8 @@ Organizando o projeto em três partes, poderemos tratar dos assuntos correlatos 
 - **[Para o que mudar](2-para-o-que-mudar.md)**: discute-se as melhores alternativas e soluções para cada rede.
 - **[Como mudar](3-como-mudar.md)**: organiza-se o cronograma e a melhor forma de atingir os objetivos.
 
+## Como participar
+
 Para colaboração com o conteúdo do repositório é preciso [abrir uma conta gratuita no Github](https://pt.wikihow.com/Criar-uma-Conta-no-GitHub). A partir daí, você pode utilizar um workflow simplificado:
 
 1. Utilize a página [discussions](https://github.com/recreiocanoas/redes/discussions) para cooperação  através de discussões focadas por assunto.
