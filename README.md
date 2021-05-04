@@ -1,5 +1,5 @@
 # redes
-### Redes para Distribuição de Energia, Água, Gás e Sinais de Comunicação.
+### Redes para Distribuição de Energia, Água, Gás e Telecom.
 
 #### Nota inicial sobre a Covid-19:
 
@@ -42,4 +42,4 @@ Para colaboração com o conteúdo deste repositório é preciso se autenticar, 
 1. Utilize a página [discussions](https://github.com/recreiocanoas/redes/discussions) para cooperação  através de discussões focadas por assunto.
 2. Crie, adicione sua opinião e/ou vote em uma [issue](https://github.com/recreiocanoas/redes/issues). As **issues** mais votadas pela comunidade ganham prioridade de forma natural e permitem uma avaliação do interesse geral em cada caso.
 
-Favor contactar @josemotta para instruções sobre workflow de colaboradores.
+Favor contactar para instruções sobre workflow de colaboradores.
