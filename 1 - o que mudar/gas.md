@@ -2,6 +2,13 @@
   
 ## O que mudar
 
+- Não há, até o presente momento, AGE que referende a distribuição de gás encanado no CRRC;
+- A instalação atual de gás não tem projeto assinado por engenheiro responsável;
+- A instalação atual de gás não tem aprovação dos órgãos competentes municipais;
+- A instalação atual de gás não tem aprovação do Corpo de Bomveiros;
+- A instalação atual de gás deve ser descartada e refeita;
+- Não deveria ser autorizada a entrada de funcionários para medição no telhado;
+
 ## Post no Facebook
 
 Há um post no [Facebook](https://www.facebook.com/groups/544636398932673/) sobre o gás, com as fotos abaixo.
