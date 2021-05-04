@@ -2,6 +2,8 @@
   
 ## Como mudar
 
+### Organiza-se o cronograma e a melhor forma de atingir objetivos.
+
 - Fazer um só projeto com tudo incluído e executá-lo por partes?
 - Devemos separar bem o projeto da obra em si?
 - Como financiar o projeto e a obra?
