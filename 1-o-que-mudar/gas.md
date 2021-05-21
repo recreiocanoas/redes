@@ -17,7 +17,7 @@ Já que a administração atual do condomínio exige que mudemos para o gás nat
 
 ## Tubulação gás no telhado
 
-### Tubulação irregular no telhado do bloco 2
+#### Tubulação irregular no telhado do bloco 2
 ![tubos gás no telhado bloco 2](/img/gas-b2-laje1.jpg)
 
 
