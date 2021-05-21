@@ -15,8 +15,9 @@ Há um post no [Facebook](https://www.facebook.com/groups/544636398932673/) sobr
 
 Já que a administração atual do condomínio exige que mudemos para o gás natural "por uma questão de seguranca", devia subir no telhado do Bloco 5 para sentir o cheiro fortíssimo de gás no entorno daquela instalação. Se com 5 ou 6 tubulações ativas o cheiro (escapamento) é fortíssimo, imaginem com 50...
 
-## Tubulação gás nos telhados
+## Tubulação gás no telhado
 
+### Tubulação irregular no telhado do bloco 2
 ![tubos gás no telhado bloco 2](/img/gas-b2-laje1.jpg)
 
 
