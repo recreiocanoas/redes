@@ -22,8 +22,8 @@ Já que a administração atual do condomínio exige que mudemos para o gás nat
 Por questões de segurança, os tubos de gás não podem ficar desprotegidos.
 ![tubos gás no telhado bloco 2](/img/gas-b2-laje1.jpg)
 
-Os detritos misturados com os tubos de gás representam perigo de vazamento, pois pode haver vazamentos.
+Os detritos misturados com os tubos de gás representam perigo de vazamentos.
 ![tubos gás no telhado bloco 2](/img/gas-b2-laje2.jpg)
 
-
-
+Há fiação elétrica junto com tubulação de gás, o que representa risco de explosão em caso de vazamento e centelhamento simultâneos.
+![tubos gás no telhado bloco 2](/img/gas-b2-laje3.jpg)
