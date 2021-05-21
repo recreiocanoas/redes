@@ -28,5 +28,8 @@ Os detritos misturados com os tubos de gás representam perigo de vazamentos.
 Há fiação elétrica junto com tubulação de gás, o que representa risco de explosão em caso de vazamento e centelhamento simultâneos.
 ![tubos gás no telhado bloco 2](/img/gas-b2-laje3.jpg)
 
-Os medidores são localizados no telhado, ocasionando acesso indesejado de funcionários externos ao telhado.
+Os medidores de consumo de gás são localizados de forma inconveniente no telhado.
 ![medidores gás no telhado bloco 2](/img/gas-b2-laje4.jpg)
+
+O acesso aos medidores obriga a entrada de funcionários da concessionária através da lixeira do bloco. Essa é uma tarefa que exige preparação e destreza, visto que essa escada não foi feita para isso.
+![medidores gás no telhado bloco 2](/img/rede-lixeira-bloco2.jpg)
