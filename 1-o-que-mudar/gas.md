@@ -37,10 +37,15 @@ Observa-se também uma rede de cabos de telecom nas lixeiras, assunto tratado em
 Em face à determinação da administração atual que obriga os moradores a aderir à distribuição pirata de gás existente no telhado, estão sendo realizadas diversas obras de instalação sem o menor critério de aprovação e documentação. Cada unidade faz a obra com um prestador de serviço diferente, não havendo controle e nem garantia de qualidade dos serviços.
 
 Por exemplo, há uma instalação que poderá gerar problemas no futuro, pois percorre um caminho sinuoso da tubulação, como pode ser visto no diagrama abaixo:
-
 ![instalação de apartamento no bloco 2](/img/gas1-ap-3.jpg)
 
-Ao encontrar algum obstáculo no meio do caminho, o prestador de serviço simplesmente criou uma rota alternativa para a tubulação. Será muito difícil entender o que se passa, caso seja necessária uma intervenção no futuro nessas paredes. Não há documentação sobre as alterações que estão sendo realizadas, ou seja, teremos em breve uma malha de tubos de gás nas paredes que poderá gerar acidentes e transtornos a todos. Há perigo de explosão e intoxicação de moradores com vazamentos de gás.
+Ao encontrar algum obstáculo no meio do caminho, o prestador de serviço simplesmente criou uma rota alternativa para a tubulação. Este é o trecho no segundo andar.
+![instalação de apartamento no bloco 2](/img/gas1-ap-1.jpg)
+
+Este é o trecho no primeiro andar da mesma tubulação.
+![instalação de apartamento no bloco 2](/img/gas1-ap-2.jpg)
+
+Será muito difícil entender o que se passa, caso seja necessária uma intervenção no futuro nessas paredes. Não há documentação sobre as alterações que estão sendo realizadas, ou seja, teremos em breve uma malha de tubos de gás nas paredes que poderá gerar acidentes e transtornos a todos. Há perigo de explosão e intoxicação de moradores com vazamentos de gás.
 
 ## Post no Facebook
 
