@@ -38,7 +38,7 @@ Em face à determinação da administração atual que obriga os moradores a ade
 
 Por exemplo, há uma instalação que poderá gerar problemas no futuro, pois percorre um caminho sinuoso da tubulação, como pode ser visto no diagrama abaixo:
 
-![serviço de instalação no bloco 2](/img/gas1-ap-3)
+![instalação de apartamento no bloco 2](/img/gas1-ap-3.jpg)
 
 Ao encontrar algum obstáculo no meio do caminho, o prestador de serviço simplesmente criou uma rota alternativa para a tubulação. Será muito difícil entender o que se passa, caso seja necessária uma intervenção no futuro nessas paredes. Não há documentação sobre as alterações que estão sendo realizadas, ou seja, teremos em breve uma malha de tubos de gás nas paredes que poderá gerar acidentes e transtornos a todos. Há perigo de explosão e intoxicação de moradores com vazamentos de gás.
 
