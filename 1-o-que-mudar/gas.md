@@ -23,15 +23,23 @@ Há que se levar em conta que a instalação de gás de rua existente:
 - Exige destreza incomum do funcionário da concessionária para realizar medição do consumo de gás;
 - Aumenta os riscos de acidentes na medição do consumo de gás, por falta de EPIs adequadas.
 
-Como pode ser observado, a administração atual tomou medidas que expõe o CRRC à insegurança judicial e denúncias de iregularidades. Em resumo, a instalação "pirata" atual existente de gás de rua deve ser sumariamente revista, corrigida e refeita, em nome da segurança jurídica e da adequação às normas de incêndio e pânico.
+Como pode ser observado, a administração atual tomou medidas que expõe o CRRC à insegurança jurídica e denúncias de iregularidades. Em resumo, a instalação "pirata" atual existente de gás de rua deve ser sumariamente revista, corrigida e refeita, em nome da segurança jurídica e da adequação às normas de incêndio e pânico.
 
 ## Tubulação de gás no CRRC
 
 Realizando um sucinto levantamento das instalações de gás do CRRC, já foram registrados:
 
 - **uso de botijões de gás internos no apartamento**: opção única quando o CRRC surgiu, há setenta anos atrás.
-- **gás canalizado com butijões externos**: diversos apartamentos realizaram obras de gás canalizado, com autorização da administração, e instalaram butijões fora dos blocos, no andar térreo.
-- **adesão à rede de distribuição de gás de rua**: essa opção, instalada no telhado dos blocos há mais de dez anos, a princípio teve pouca adesão mas vem ganhando força em virtude das decisões da administração atual.
+- **gás canalizado com butijões externos**: com autorização da administração, diversos apartamentos realizaram obras de gás canalizado e instalaram butijões fora dos blocos, no andar térreo.
+- **adesão à rede de distribuição de gás de rua**: instalada no telhado dos cinco blocos há mais de dez anos, a princípio teve pouca adesão. Vem ganhando força em virtude da decisão da administração atual em obrigar os proprietários a aderir.
+
+O mapa a seguir mostra as redes de distribuição de gás (verde) e eletricidade (vermelha) no CRRC com características de projeto diferentes.
+
+![mapa](/img/crrc-mapa-eletrica-gas.png)
+
+O projeto da rede elétrica, realizado por empresa de engenharia habilitada, optou por instalar dois alimentadores, junto à sede do condomínio e no bloco 5, próximo à muralha. Isso evitou que a rede de distribuição elétrica cruzasse o riacho que divide o CRRC ao meio.
+
+Já a instalação de gás existente optou por um único ponto de alimentação, repare que há uma tubulação cruzando o riacho entre os blocos 2 e 3, onde há uma pequena ponte. Há de se observar que já ocorreram neste local diversos eventos climáticos extremos, causado por fortes chuvas. Essa péssima decisão de projeto aumenta enormemente os riscos de vazamentos de gás e explosões em caso de condições metereológicas desfavoráveis, como vem ocorrendo no mundo com mais frequência.
 
 
 ## Tubulação gás no telhado
