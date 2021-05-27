@@ -39,7 +39,47 @@ O mapa a seguir mostra as redes de distribuição de gás (verde) e eletricidade
 
 O projeto da rede elétrica, realizado por empresa de engenharia habilitada, optou por instalar dois alimentadores, junto à sede do condomínio e no bloco 5, próximo à muralha. Isso evitou que a rede de distribuição elétrica cruzasse o riacho que divide o CRRC ao meio.
 
-Já a instalação de gás existente optou por um único ponto de alimentação, repare que há uma tubulação cruzando o riacho entre os blocos 2 e 3, onde há uma pequena ponte. Há de se observar que já ocorreram neste local diversos eventos climáticos extremos, causado por fortes chuvas. Essa péssima decisão de projeto aumenta enormemente os riscos de vazamentos de gás e explosões em caso de condições metereológicas desfavoráveis, como vem ocorrendo no mundo com mais frequência.
+Já a instalação de gás existente optou por um único ponto de entrada de alimentação próximo ao bloco 1. Repare que por causa disso, a tubulação cruza o riacho entre os blocos 2 e 3, onde há uma pequena ponte. Há de se observar que já ocorreram neste local diversos eventos climáticos extremos, causado por fortes chuvas. Essa péssima decisão de projeto aumenta enormemente os riscos de vazamentos de gás e explosões em caso de condições metereológicas desfavoráveis, como vem ocorrendo no mundo com mais frequência.
+
+Há também diversos outros pontos de perigo na instalação de gás de rua, marcados com uma estrela roxa:
+
+- **tubulação exposta no telhado dos blocos**: nos 5 blocos há tubulação de gás em meio a cabos elétricos e detritos de obras;
+- **tubulação exposta da área externa dos blocos 1 e 2**: a tubulação externa de gás de rua junto aos blocos 1 e 2 estão descobertas, o que aumenta o risco de vazamentos e explosões.
+
+![gas-entrada](/img/gas-entrada1.jpg)
+![gas-entrada](/img/gas-entrada2.jpg)
+![gas-entrada](/img/gas-entrada3.jpg)
+![gas-bloco 1](/img/gas-b1.jpg)
+
+![gas-bloco 1](/img/gas-b1.jpg)
+![gas-bloco 1](/img/gas-b1a.jpg)
+![gas-bloco 1](/img/gas-b1b.jpg)
+![gas-bloco 1](/img/gas-b1c.jpg)
+![gas-bloco 1](/img/gas-b1d.jpg)
+![gas-bloco 1](/img/gas-b1-lateral.jpg)
+
+![gas-bloco 2](/img/gas-b2b.jpg)
+![gas-bloco 2](/img/gas-b2-lateral.jpg)
+
+![gas-rio](/img/gas-rio1.jpg)
+![gas-rio](/img/gas-rio2.jpg)
+
+![gas-bloco 3](/img/gas-b3-lateral.jpg)
+![gas-bloco 3](/img/gas-b3-lateral1.jpg)
+![gas-bloco 3](/img/gas-b3-lateral2.jpg)
+
+![gas-bloco 4](/img/gas-b4-lateral.jpg)
+
+![gas-bloco 5](/img/gas-b5-acesso1.jpg)
+![gas-bloco 5](/img/gas-b5-acesso2.jpg)
+![gas-bloco 5](/img/gas-b5-acesso3.jpg)
+
+
+
+
+
+
+
 
 
 ## Tubulação gás no telhado
