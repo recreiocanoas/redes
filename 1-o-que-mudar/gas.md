@@ -133,7 +133,7 @@ Por exemplo, há uma instalação que poderá gerar problemas no futuro, pois pe
 
 ![instalação de apartamento no bloco 2](/img/gas1-ap-3.jpg)
 
-Ao encontrar algum obstáculo no meio do caminho, o prestador de serviço simplesmente criou uma rota alternativa para a tubulação. Este é o trecho no segundo andar.
+Ao enfrentar obstáculo devido à instalação elétrica, o prestador de serviço simplesmente criou uma rota alternativa para a tubulação. Este é o trecho no segundo andar.
 
 ![instalação de apartamento no bloco 2](/img/gas1-ap-1.jpg)
 
