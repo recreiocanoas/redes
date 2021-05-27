@@ -52,7 +52,7 @@ Abaixo a caixa de entrada de gás de rua, ao lado do bloco 1:
 ![gas-entrada](/img/gas-entrada2.jpg)
 ![gas-entrada](/img/gas-entrada3.jpg)
 
-A tubulação parcialmente coberta segue por baixo do bloco 1, em meio às instalações de gás de butijão previamente existentes. A maioria das instalações de gás de butijão externas já existia quando foi feita a instalação do gás de rua.
+A tubulação quase que totalmente descoberta segue por baixo do bloco 1, em meio às instalações de gás de butijão previamente existentes. A maioria das instalações de gás de butijão externas já existia quando foi feita a instalação do gás de rua.
 
 ![gas-bloco 1](/img/gas-b1.jpg)
 ![gas-bloco 1](/img/gas-b1a.jpg)
@@ -79,15 +79,15 @@ Nas fotos a seguir, vê-se a subida da tubulação de gás na lateral do bloco 3
 ![gas-bloco 3](/img/gas-b3-lateral1.jpg)
 ![gas-bloco 3](/img/gas-b3-lateral2.jpg)
 
-Não foi possível verificar o local de passagem da tubulação entre os blocos 3 e 4. A subida da tubulação de gás para o telhado do bloco 4 é mostrada a seguir:
+Não foi possível verificar o local de passagem da tubulação entre os blocos 3 e 4. A subida da tubulação de gás para o telhado do bloco 4 é mostrada a seguir na lateral do prédio:
 
 ![gas-bloco 4](/img/gas-b4-lateral.jpg)
 
 O acesso ao bloco 5 é feito por tubulação de gás enterrada, com proteção de concreto, conforme mostrado a seguir:
 
-![gas-bloco 5](/img/gas-b5-acesso1.jpg)
-![gas-bloco 5](/img/gas-b5-acesso2.jpg)
 ![gas-bloco 5](/img/gas-b5-acesso3.jpg)
+![gas-bloco 5](/img/gas-b5-acesso2.jpg)
+![gas-bloco 5](/img/gas-b5-acesso1.jpg)
 
 No entanto, quando chega ao telhado do bloco 5, a tubulação de gás de rua volta a ficar totalmente descoberta, como pode ser visto a seguir:
 
