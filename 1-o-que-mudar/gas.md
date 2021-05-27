@@ -46,34 +46,52 @@ Há também diversos outros pontos de perigo na instalação de gás de rua, mar
 - **tubulação exposta no telhado dos blocos**: nos 5 blocos há tubulação de gás em meio a cabos elétricos e detritos de obras;
 - **tubulação exposta da área externa dos blocos 1 e 2**: a tubulação externa de gás de rua junto aos blocos 1 e 2 estão descobertas, o que aumenta o risco de vazamentos e explosões.
 
+Abaixo a caixa de entrada de gás de rua, ao lado do bloco 1:
+
 ![gas-entrada](/img/gas-entrada1.jpg)
 ![gas-entrada](/img/gas-entrada2.jpg)
 ![gas-entrada](/img/gas-entrada3.jpg)
-![gas-bloco 1](/img/gas-b1.jpg)
+
+A tubulação parcialmente coberta segue por baixo do bloco 1, em meio às instalações de gás de butijão previamente existentes. A maioria das instalações de gás de butijão externas já existia quando foi feita a instalação do gás de rua.
 
 ![gas-bloco 1](/img/gas-b1.jpg)
 ![gas-bloco 1](/img/gas-b1a.jpg)
 ![gas-bloco 1](/img/gas-b1b.jpg)
 ![gas-bloco 1](/img/gas-b1c.jpg)
 ![gas-bloco 1](/img/gas-b1d.jpg)
+
+A seguir vê-se a subida da tubulação de gás pela lateral dos blocos 1 e 2. Como será visto mais adiante, essa tubulação irá prosseguir nos telhados dos blocos sem qualquer proteção, expondo os tubos a acidentes, como vazamentos e explosões.
+
 ![gas-bloco 1](/img/gas-b1-lateral.jpg)
+![gas-bloco 2](/img/gas-b2-lateral.jpg)
+
+Em seguida, a tubulação de gás percorre toda a extensão do bloco 2. Contudo, há um longo trecho em que os tubos estão expostos, como pode se observar na foto a segur:
 
 ![gas-bloco 2](/img/gas-b2b.jpg)
-![gas-bloco 2](/img/gas-b2-lateral.jpg)
+
+A seguir, a tubulação de gás de rua cruza o riacho, colada à ponte com uma capa de cimento envolvendo a tubulação.
 
 ![gas-rio](/img/gas-rio1.jpg)
 ![gas-rio](/img/gas-rio2.jpg)
 
-![gas-bloco 3](/img/gas-b3-lateral.jpg)
+Nas fotos a seguir, vê-se a subida da tubulação de gás na lateral do bloco 3, único local onde foi constatado haver um registro para manobras de fechamento. Após subir ao telhado, como no restante dos blocos, a tubulação de gás segue descoberta, junto com instalações elétricas pré-existentes.
+
 ![gas-bloco 3](/img/gas-b3-lateral1.jpg)
 ![gas-bloco 3](/img/gas-b3-lateral2.jpg)
 
+Não foi possível verificar o local de passagem da tubulação entre os blocos 3 e 4. A subida da tubulação de gás para o telhado do bloco 4 é mostrada a seguir:
+
 ![gas-bloco 4](/img/gas-b4-lateral.jpg)
+
+O acesso ao bloco 5 é feito por tubulação de gás enterrada, com proteção de concreto, conforme mostrado a seguir:
 
 ![gas-bloco 5](/img/gas-b5-acesso1.jpg)
 ![gas-bloco 5](/img/gas-b5-acesso2.jpg)
 ![gas-bloco 5](/img/gas-b5-acesso3.jpg)
 
+No entanto, quando chega ao telhado do bloco 5, a tubulação de gás de rua volta a ficar totalmente descoberta, como pode ser visto a seguir:
+
+![gas-bloco 5](/img/gas-b5-laje1.jpg)
 
 
 
