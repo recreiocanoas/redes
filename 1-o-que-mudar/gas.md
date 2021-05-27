@@ -141,7 +141,7 @@ Este é o trecho no primeiro andar da mesma tubulação.
 
 ![instalação de apartamento no bloco 2](/img/gas1-ap-2.jpg)
 
-Será muito difícil entender o que se passa, caso seja necessária uma intervenção no futuro nessas paredes. Não há documentação sobre as alterações que estão sendo realizadas, ou seja, teremos em breve uma malha de tubos de gás nas paredes que poderá gerar acidentes e transtornos a todos. Há perigo de explosão e intoxicação de moradores com vazamentos de gás.
+Será muito difícil entender o que se passa, caso seja necessária intervenção nessas paredes no futuro. Não há documentação sobre as alterações que estão sendo realizadas, ou seja, teremos em breve uma malha de tubos de gás nas paredes que poderá gerar acidentes e transtornos a todos. Há perigo de explosão e intoxicação de moradores com vazamentos de gás.
 
 ## Post no Facebook
 
