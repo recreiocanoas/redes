@@ -118,8 +118,8 @@ Os medidores de consumo de gás são localizados de forma inconveniente no telha
 
 O acesso aos medidores obriga a entrada de funcionários da concessionária através da lixeira do bloco. Essa é uma tarefa que exige preparação e destreza, visto que essa escada não foi feita para isso.
 
-![medidores gás no telhado bloco 2](/img/b2-telhado-acesso.jpg)
 ![medidores gás no telhado bloco 2](/img/b2-telhado-acesso2.jpg)
+![medidores gás no telhado bloco 2](/img/b2-telhado-acesso.jpg)
 
 Observa-se também uma rede de cabos de telecom nas lixeiras, assunto tratado em "o que mudar - telecom".
 
