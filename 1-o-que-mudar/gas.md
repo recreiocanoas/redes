@@ -117,6 +117,7 @@ Os medidores de consumo de gás são localizados de forma inconveniente no telha
 ![medidores gás no telhado bloco 2](/img/gas-b2-laje4.jpg)
 
 O acesso aos medidores obriga a entrada de funcionários da concessionária através da lixeira do bloco. Essa é uma tarefa que exige preparação e destreza, visto que essa escada não foi feita para isso.
+
 ![medidores gás no telhado bloco 2](/img/rede-lixeira-bloco2.jpg)
 
 Observa-se também uma rede de cabos de telecom nas lixeiras, assunto tratado em "o que mudar - telecom".
@@ -129,12 +130,15 @@ A instalação de gás entre os blocos do condomínio não estão de acordo com 
 ## Tubulação de gás nos apartamentos
 
 Por exemplo, há uma instalação que poderá gerar problemas no futuro, pois percorre um caminho sinuoso da tubulação, como pode ser visto no diagrama abaixo:
+
 ![instalação de apartamento no bloco 2](/img/gas1-ap-3.jpg)
 
 Ao encontrar algum obstáculo no meio do caminho, o prestador de serviço simplesmente criou uma rota alternativa para a tubulação. Este é o trecho no segundo andar.
+
 ![instalação de apartamento no bloco 2](/img/gas1-ap-1.jpg)
 
 Este é o trecho no primeiro andar da mesma tubulação.
+
 ![instalação de apartamento no bloco 2](/img/gas1-ap-2.jpg)
 
 Será muito difícil entender o que se passa, caso seja necessária uma intervenção no futuro nessas paredes. Não há documentação sobre as alterações que estão sendo realizadas, ou seja, teremos em breve uma malha de tubos de gás nas paredes que poderá gerar acidentes e transtornos a todos. Há perigo de explosão e intoxicação de moradores com vazamentos de gás.
