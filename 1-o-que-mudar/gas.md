@@ -121,7 +121,7 @@ O acesso aos medidores obriga a entrada de funcionários da concessionária atra
 ![medidores gás no telhado bloco 2](/img/b2-telhado-acesso2.jpg)
 ![medidores gás no telhado bloco 2](/img/b2-telhado-acesso.jpg)
 
-Observa-se também uma rede de cabos de telecom nas lixeiras, assunto tratado em "o que mudar - telecom".
+Observa-se também uma rede de cabos de telecom nas lixeiras, assunto tratado em [o que mudar - telecom](/1-o-que-mudar/telecom.md).
 
 ## Tubulação de gás nos blocos
 
