@@ -23,7 +23,7 @@ Há que se levar em conta que a instalação de gás de rua existente:
 - Exige destreza incomum do funcionário da concessionária para realizar medição do consumo de gás;
 - Aumenta os riscos de acidentes na medição do consumo de gás, por falta de EPIs adequadas.
 
-Como pode ser observado, a administração atual tomou medidas que expõe o CRRC à insegurança jurídica e denúncias de iregularidades. Em resumo, a instalação "pirata" atual existente de gás de rua deve ser sumariamente revista, corrigida e refeita, em nome da segurança jurídica e da adequação às normas de incêndio e pânico.
+Como pode ser observado, a administração atual tomou medidas que expõe o CRRC à insegurança jurídica e denúncias de iregularidades. Em resumo, a instalação "pirata" atual existente de gás de rua deve ser sumariamente revista, corrigida e refeita, em nome da segurança jurídica e da adequação às normas para prevenção de incêndio e pânico.
 
 ## Tubulação de gás no CRRC
 
