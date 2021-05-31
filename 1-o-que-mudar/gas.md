@@ -101,6 +101,7 @@ No entanto, quando chega ao telhado do bloco 5, a tubulação de gás de rua vol
 Com medidores e tubulação expostas no telhado do bloco 5, há queixas de moradores do cheiro forte de gás. Os serviços para novas instalações não tem padronização nem fiscalização por parte do CRRC, num local arriscado que pode trazer risco à segurança de todos.
 
 ![gas-bloco 5](/img/gas-b5-laje1.jpg)
+![gas-bloco 5](/img/gas-b5-laje3.jpg)
 
 É preciso adequar essas instalações às normas de prevenção de incêndio e pânico vigentes na cidade do Rio de Janeiro. Para isso seria preciso dar entrada na prefeitura do projeto de distribuição de gás.
 
