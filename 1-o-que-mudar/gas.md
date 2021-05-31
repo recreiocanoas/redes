@@ -89,19 +89,19 @@ O acesso ao bloco 5 é feito por tubulação de gás enterrada, com proteção d
 ![gas-bloco 5](/img/gas-b5-acesso2.jpg)
 ![gas-bloco 5](/img/gas-b5-acesso1.jpg)
 
-No entanto, quando chega ao telhado do bloco 5, a tubulação de gás de rua volta a ficar totalmente descoberta, como pode ser visto a seguir:
-
-![gas-bloco 5](/img/gas-b5-laje1.jpg)
-![gas-bloco 5](/img/gas-b5-laje2.jpg)
-
-
-
-
-
-
-
+No entanto, quando chega ao telhado do bloco 5, a tubulação de gás de rua volta a ficar totalmente descoberta, como pode ser visto a seguir.
 
 ## Tubulação gás no telhado
+
+#### Tubulação irregular no telhado do bloco 5
+
+Com medidores e tubulação expostas no telhado do bloco 5, há queixas de moradores do cheiro forte de gás. Os serviços para novas instalações não tem padronização nem fiscalização por parte do CRRC, num local arriscado que pode trazer risco à segurança de todos.
+
+![gas-bloco 5](/img/gas-b5-laje1.jpg)
+
+É preciso adequar essas instalações às normas de prevenção de incêndio e pânico vigentes na cidade do Rio de Janeiro. Para isso seria preciso dar entrada na prefeitura do projeto de distribuição de gás.
+
+![gas-bloco 5](/img/gas-b5-laje2.jpg)
 
 #### Tubulação irregular no telhado do bloco 2
 
@@ -109,12 +109,15 @@ Por questões de segurança, os tubos de gás não podem ficar desprotegidos. Es
 ![tubos gás no telhado bloco 2](/img/gas-b2-laje1.jpg)
 
 Os detritos misturados com os tubos de gás representam perigo de vazamentos.
+
 ![tubos gás no telhado bloco 2](/img/gas-b2-laje2.jpg)
 
 Há fiação elétrica junto com tubulação de gás, o que representa risco de explosão em caso de vazamento e centelhamento simultâneos.
+
 ![tubos gás no telhado bloco 2](/img/gas-b2-laje3.jpg)
 
 Os medidores de consumo de gás são localizados de forma inconveniente no telhado.
+
 ![medidores gás no telhado bloco 2](/img/gas-b2-laje4.jpg)
 
 O acesso aos medidores obriga a entrada de funcionários da concessionária através da lixeira do bloco. Essa é uma tarefa que exige preparação e destreza, visto que essa escada não foi feita para isso.
