@@ -106,6 +106,7 @@ Com medidores e tubulação expostas no telhado do bloco 5, há queixas de morad
 #### Tubulação irregular no telhado do bloco 2
 
 Por questões de segurança, os tubos de gás não podem ficar desprotegidos. Essa instalação não está de acordo com as normas técnicas vigentes. Não há projeto aprovado na prefeitura nem responsável técnico.
+
 ![tubos gás no telhado bloco 2](/img/gas-b2-laje1.jpg)
 
 Os detritos misturados com os tubos de gás representam perigo de vazamentos.
