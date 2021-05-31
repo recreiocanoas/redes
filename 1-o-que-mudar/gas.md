@@ -65,13 +65,16 @@ A seguir vê-se a subida da tubulação de gás pela lateral dos blocos 1 e 2. C
 ![gas-bloco 1](/img/gas-b1-lateral.jpg)
 ![gas-bloco 2](/img/gas-b2-lateral.jpg)
 
-Em seguida, a tubulação de gás percorre toda a extensão do bloco 2. Contudo, há um longo trecho em que os tubos estão expostos, como pode se observar na foto a segur:
+Em seguida, a tubulação de gás percorre toda a extensão do bloco 2. Contudo, há um longo trecho em que os tubos estão expostos, como pode se observar na foto a seguir:
 
 ![gas-bloco 2](/img/gas-b2b.jpg)
 
-A seguir, a tubulação de gás de rua cruza o riacho, colada à ponte com uma capa de cimento envolvendo a tubulação.
+Quando chega no final do bloco 2, a tubulação de gás de rua cruza o riacho, através de tubulação colada a uma pequena ponte.
 
 ![gas-rio](/img/gas-rio1.jpg)
+
+Situada ao lado da tubulação de água que já se rompeu algumas vezes durante fortes chuvas, vê-se uma fina capa de cimento envolvendo a tubulação de gás.
+
 ![gas-rio](/img/gas-rio2.jpg)
 
 Nas fotos a seguir, vê-se a subida da tubulação de gás na lateral do bloco 3, único local onde foi constatado haver um registro para manobras de fechamento. Após subir ao telhado, como no restante dos blocos, a tubulação de gás segue descoberta, junto com instalações elétricas pré-existentes.
