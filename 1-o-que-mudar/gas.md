@@ -192,8 +192,6 @@ Art. 21. O suprimento de Gás Liquefeito de Petróleo (GLP) para as edificaçõe
 
 Parágrafo único. No caso de impossibilidade técnica de instalação de central de GLP fora da projeção da edificação, poderá ser permitida a instalação em nicho, conforme os requisitos estabelecidos em Nota Técnica do CBMERJ.
 
-Art. 22. Os requisitos de segurança contra incêndio e pânico das centrais de GLP e das redes de distribuição interna para gases combustíveis, sendo gás natural (GN) ou gás liquefeito de petróleo, serão estabelecidos em Nota Técnica do CBMERJ.
-
 ### CAPÍTULO IX - RESPONSABILIDADES
 
 Art. 40. O proprietário ou responsável legal pela edificação ou área de risco deverá:
