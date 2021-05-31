@@ -92,6 +92,7 @@ O acesso ao bloco 5 é feito por tubulação de gás enterrada, com proteção d
 No entanto, quando chega ao telhado do bloco 5, a tubulação de gás de rua volta a ficar totalmente descoberta, como pode ser visto a seguir:
 
 ![gas-bloco 5](/img/gas-b5-laje1.jpg)
+![gas-bloco 5](/img/gas-b5-laje2.jpg)
 
 
 
