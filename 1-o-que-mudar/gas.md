@@ -65,13 +65,16 @@ A seguir vê-se a subida da tubulação de gás pela lateral dos blocos 1 e 2. C
 ![gas-bloco 1](/img/gas-b1-lateral.jpg)
 ![gas-bloco 2](/img/gas-b2-lateral.jpg)
 
-Em seguida, a tubulação de gás percorre toda a extensão do bloco 2. Contudo, há um longo trecho em que os tubos estão expostos, como pode se observar na foto a segur:
+Em seguida, a tubulação de gás percorre toda a extensão do bloco 2. Contudo, há um longo trecho em que os tubos estão expostos, como pode se observar na foto a seguir:
 
 ![gas-bloco 2](/img/gas-b2b.jpg)
 
-A seguir, a tubulação de gás de rua cruza o riacho, colada à ponte com uma capa de cimento envolvendo a tubulação.
+Quando chega no final do bloco 2, a tubulação de gás de rua cruza o riacho, através de tubulação colada a uma pequena ponte.
 
 ![gas-rio](/img/gas-rio1.jpg)
+
+Situada ao lado da tubulação de água que já se rompeu algumas vezes durante fortes chuvas, vê-se uma fina capa de cimento envolvendo a tubulação de gás.
+
 ![gas-rio](/img/gas-rio2.jpg)
 
 Nas fotos a seguir, vê-se a subida da tubulação de gás na lateral do bloco 3, único local onde foi constatado haver um registro para manobras de fechamento. Após subir ao telhado, como no restante dos blocos, a tubulação de gás segue descoberta, junto com instalações elétricas pré-existentes.
@@ -89,25 +92,46 @@ O acesso ao bloco 5 é feito por tubulação de gás enterrada, com proteção d
 ![gas-bloco 5](/img/gas-b5-acesso2.jpg)
 ![gas-bloco 5](/img/gas-b5-acesso1.jpg)
 
+<<<<<<< HEAD
 No entanto, quando chega ao telhado do bloco 5, a tubulação de gás de rua volta a ficar totalmente descoberta, como pode ser visto a seguir:
 
 ![gas-bloco 5](/img/gas-b5-laje1.jpg)
 
 
 ## Tubulação gás no telhado
+=======
+No entanto, quando chega ao telhado do bloco 5, a tubulação de gás de rua volta a ficar totalmente descoberta, como pode ser visto a seguir.
+
+## Tubulação gás no telhado
+
+#### Tubulação irregular no telhado do bloco 5
+
+Com medidores e tubulação expostas no telhado do bloco 5, há queixas de moradores do cheiro forte de gás. Os serviços para novas instalações não tem padronização nem fiscalização por parte do CRRC, num local arriscado que pode trazer risco à segurança de todos.
+
+![gas-bloco 5](/img/gas-b5-laje1.jpg)
+![gas-bloco 5](/img/gas-b5-laje3.jpg)
+
+É preciso adequar essas instalações às normas de prevenção de incêndio e pânico vigentes na cidade do Rio de Janeiro. Para isso seria preciso dar entrada na prefeitura do projeto de distribuição de gás.
+
+![gas-bloco 5](/img/gas-b5-laje2.jpg)
+>>>>>>> 7aabb828dce73d0201dc3cf8180581266b406b99
 
 #### Tubulação irregular no telhado do bloco 2
 
 Por questões de segurança, os tubos de gás não podem ficar desprotegidos. Essa instalação não está de acordo com as normas técnicas vigentes. Não há projeto aprovado na prefeitura nem responsável técnico.
+
 ![tubos gás no telhado bloco 2](/img/gas-b2-laje1.jpg)
 
 Os detritos misturados com os tubos de gás representam perigo de vazamentos.
+
 ![tubos gás no telhado bloco 2](/img/gas-b2-laje2.jpg)
 
 Há fiação elétrica junto com tubulação de gás, o que representa risco de explosão em caso de vazamento e centelhamento simultâneos.
+
 ![tubos gás no telhado bloco 2](/img/gas-b2-laje3.jpg)
 
 Os medidores de consumo de gás são localizados de forma inconveniente no telhado.
+
 ![medidores gás no telhado bloco 2](/img/gas-b2-laje4.jpg)
 
 O acesso aos medidores obriga a entrada de funcionários da concessionária através da lixeira do bloco. Essa é uma tarefa que exige preparação e destreza, visto que essa escada não foi feita para isso.
