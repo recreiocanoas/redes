@@ -94,12 +94,6 @@ No entanto, quando chega ao telhado do bloco 5, a tubulação de gás de rua vol
 ![gas-bloco 5](/img/gas-b5-laje1.jpg)
 
 
-
-
-
-
-
-
 ## Tubulação gás no telhado
 
 #### Tubulação irregular no telhado do bloco 2
@@ -129,6 +123,11 @@ A instalação de gás entre os blocos do condomínio não estão de acordo com 
 
 ![medidores gás no telhado bloco 2](/img/gas-b2.jpg)
 
+Veja a seguir outros trechos no bloco 1 com proteção apenas parcial da tubulação.
+
+![medidores gás no telhado bloco 1](/img/gas-b1c.jpg)
+![medidores gás no telhado bloco 1](/img/gas-b1d.jpg)
+
 ## Tubulação de gás nos apartamentos
 
 Por exemplo, há uma instalação que poderá gerar problemas no futuro, pois percorre um caminho sinuoso da tubulação, como pode ser visto no diagrama abaixo:
@@ -155,13 +154,21 @@ Já que a administração atual do condomínio exige que mudemos para o gás nat
 
 Conforme apuração realizada, apesar da administração do CRRC ter mencionado em seu [comunicado 021 de 24/3/2021](/doc/comunicado-gas.pdf) o Decreto 897 de 21/09/1976, ele foi revogado pelo [Decreto Nº 42 DE 17/12/2018](https://www.legisweb.com.br/legislacao/?id=372879) pelo Interventor na Área de Segurança Pública do Estado do Rio de Janeiro.
 
-Seguem abaixo trechos da legislação atualizada que regulamenta o Decreto-lei nº 247, de 21 de julho de 1975, dispondo sobre o Código de Segurança Contra Incêndio e Pânico - COSCIP, no âmbito do Estado do Rio de Janeiro diz:
+Seguem abaixo trechos retirados da legislação atualizada que regulamenta o Decreto-lei nº 247, de 21 de julho de 1975, dispondo sobre o Código de Segurança Contra Incêndio e Pânico - COSCIP, no âmbito do Estado do Rio de Janeiro diz:
 
 ### CAPÍTULO V - CUMPRIMENTO DAS MEDIDAS DE SEGURANÇA CONTRA INCÊNDIO E PÂNICO
 
 (Redação do artigo dada pelo Decreto Nº 46925 DE 05/02/2020):
 
 Art. 16. Para cumprimento do disposto neste Código, as medidas de segurança contra incêndio e pânico deverão ser projetadas e executadas sob a responsabilidade técnica de profissionais legalmente habilitados pelos respectivos Conselhos de Classe (Conselho Regional de Engenharia e Agronomia - CREA ou Conselho de Arquitetura e Urbanismo - CAU) e cadastrados junto ao CBMERJ.
+
+### CAPÍTULO VI - SUPRIMENTO DE GÁS COMBUSTÍVEL
+
+Art. 21. O suprimento de Gás Liquefeito de Petróleo (GLP) para as edificações e áreas de risco somente poderá ser realizado instalando o botijão ou cilindro no pavimento térreo e fora da projeção da edificação.
+
+Parágrafo único. No caso de impossibilidade técnica de instalação de central de GLP fora da projeção da edificação, poderá ser permitida a instalação em nicho, conforme os requisitos estabelecidos em Nota Técnica do CBMERJ.
+
+Art. 22. Os requisitos de segurança contra incêndio e pânico das centrais de GLP e das redes de distribuição interna para gases combustíveis, sendo gás natural (GN) ou gás liquefeito de petróleo, serão estabelecidos em Nota Técnica do CBMERJ.
 
 ### CAPÍTULO IX - RESPONSABILIDADES
 
