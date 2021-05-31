@@ -178,7 +178,7 @@ Já que a administração atual do condomínio exige que mudemos para o gás nat
 
 Conforme apuração realizada, apesar da administração do CRRC ter mencionado em seu [comunicado 021 de 24/3/2021](/doc/comunicado-gas.pdf) o Decreto 897 de 21/09/1976, ele foi revogado pelo [Decreto Nº 42 DE 17/12/2018](https://www.legisweb.com.br/legislacao/?id=372879) pelo Interventor na Área de Segurança Pública do Estado do Rio de Janeiro.
 
-Seguem abaixo trechos retirados da legislação atualizada que regulamenta o Decreto-lei nº 247, de 21 de julho de 1975, dispondo sobre o Código de Segurança Contra Incêndio e Pânico - COSCIP, no âmbito do Estado do Rio de Janeiro diz:
+Seguem abaixo trechos retirados da legislação atualizada que regulamenta o Decreto-lei nº 247, de 21 de julho de 1975, dispondo sobre o Código de Segurança Contra Incêndio e Pânico - COSCIP, no âmbito do Estado do Rio de Janeiro.
 
 #### CAPÍTULO V - CUMPRIMENTO DAS MEDIDAS DE SEGURANÇA CONTRA INCÊNDIO E PÂNICO
 
