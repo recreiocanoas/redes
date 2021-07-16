@@ -71,9 +71,9 @@ Segue um trecho dessa norma técnica para demonstrar a não conformidade das ins
 
 Repare que a norma exige que ao atravessar lajes e paredes não existam pontos de contato entre estes elementos estruturais e a tubulação de gás. Isso evita acúmulo de stress, devido aos diferentes graus de dilatação dos diferentes materiais.
 
-![gas-bloco 1](/img/gas1-ap-7.jpg)
+As instalações que estão sendo feitas no CRRC não seguem a norma, como pode ser visto na foto abaixo, em que a tubulação está diretamente embutida na alvenaria, sem a luva de proteção.
 
-As instalações que estão sendo feitas no CRRC seguem padrão incorreto, como pode ser visto no bloco 2 na foto acima, em que a tubulação está diretamente embutida na alvenaria e não através de uma luva de proteção.
+![gas-bloco 1](/img/gas1-ap-7.jpg)
 
 O resultado nesse caso é o risco de ocorrência de vazamentos pelo simples passar do tempo, com as paredes esquentando/esfriando durante dias/noites. Ou seja, há o risco de intoxicação coletiva por vazamentos de gás, mesmo sem que tenha havido qualquer intervenção nas paredes e/ou tubulações.
 
