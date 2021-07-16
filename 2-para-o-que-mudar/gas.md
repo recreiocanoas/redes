@@ -80,3 +80,15 @@ O resultado nesse caso é o risco de ocorrência de vazamentos pelo simples pass
 ![gas-bloco 1](/img/gas1-ap-5.jpg)
 
 Seria preciso interromper o mais rápido possível a realização desse tipo de instalações de gás no CRRC, de forma a regulamentar o procedimento, bem como corrigir as instalações incorretas já realizadas.
+
+## Certificado do Corpo de Bombeiros
+
+No caso do CRRC, após cumprirmos as etapas de projeto e execução de uma rede OFICIAL de distribuição interna para gases combustíveis em instalações residenciais, obteremos o Certificado de Aprovação do Corpo de Bombeiros, como mostra o modelo abaixo.
+
+![certificado-bombeiros](/img/bombeiros-certificado.jpg)
+
+# Conclusão
+
+A rede PIRATA de distribuição de gás atual deve ser totalmente descartada, pois não atende aos requisitos mínimos exigidos pela legislação e normas técnicas vigentes. Além disso, configura um perigo de acidentes e eventual abuso trabalhista a funcionários obrigados a acessar os telhados dos blocos, através de lixeiras, para fazer a medição do gás.
+
+A rede PIRATA de gás atual está colocando a todos em risco de intoxicação por vazamentos e incêndios, já que não obedece aos requisitos mínimos exigidos para uma rede de distribuição segura.
