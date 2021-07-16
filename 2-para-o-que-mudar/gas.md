@@ -89,4 +89,6 @@ No caso do CRRC, após cumprirmos as etapas de projeto e execução de uma rede 
 
 A rede PIRATA de distribuição de gás atual deve ser totalmente descartada, pois não atende aos requisitos mínimos exigidos pela legislação e normas técnicas vigentes. Além disso, configura um perigo de acidentes e eventual abuso trabalhista a funcionários obrigados a acessar os telhados dos blocos através de lixeiras para fazer a medição do gás.
 
+![certificado-bombeiros](/img/telecom-b2-lixeira.jpg)
+
 A rede PIRATA de gás atual está colocando todos os blocos do CRRC em risco de intoxicação por vazamentos e incêndios, já que não obedece aos requisitos de uma rede segura de distribuição interna para gases combustíveis em instalações residenciais.
