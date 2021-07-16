@@ -69,9 +69,7 @@ Segue um trecho dessa norma técnica para demonstrar a não conformidade das ins
 
 ![norma-técnica](/img/ABNT-gas-embutido.jpg)
 
-Repare que a norma exige que ao atravessar lajes e paredes não existam pontos de contato entre estes elementos estruturais e a tubulação de gás. Isso evita acúmulo de stress, devido aos diferentes graus de dilatação dos diferentes materiais.
-
-As instalações que estão sendo feitas no CRRC não seguem a norma, como pode ser visto na foto abaixo, em que a tubulação está diretamente embutida na alvenaria, sem a luva de proteção.
+Repare que a norma exige que ao atravessar lajes e paredes não existam pontos de contato entre estes elementos estruturais e a tubulação de gás. Isso evita acúmulo de stress, devido aos diferentes graus de dilatação dos diferentes materiais. As instalações que estão sendo feitas no CRRC não seguem a norma, como pode ser visto na foto abaixo, em que a tubulação está diretamente embutida na alvenaria, sem a luva de proteção.
 
 ![gas-bloco 1](/img/gas1-ap-7.jpg)
 
