@@ -107,7 +107,7 @@ Com medidores e tubulação expostas no telhado do bloco 5, há queixas de morad
 
 #### Tubulação irregular no telhado do bloco 2
 
-Por questões de segurança, os tubos de gás não podem ficar desprotegidos. Essa instalação não está de acordo com as normas técnicas vigentes. Não há projeto aprovado na prefeitura nem responsável técnico para a rede de distribuição de gás de todo o CRRC.
+Por questões de segurança, os tubos de gás não podem ficar desprotegidos. Essa instalação não está de acordo com as normas técnicas. Não há projeto aprovado na prefeitura nem responsável técnico para a rede de distribuição de gás de todo o CRRC.
 
 ![tubos gás no telhado bloco 2](/img/gas-b2-laje1.jpg)
 
@@ -145,11 +145,11 @@ Veja a seguir outros trechos no bloco 1 também com a tubulação exposta.
 
 ## Tubulação de gás nos apartamentos
 
-Por exemplo, há uma instalação que poderá gerar problemas no futuro, pois percorre um caminho sinuoso da tubulação, como pode ser visto no diagrama abaixo:
+Há um exemplo que ilustra bem os problemas decorrentes de uma tubulação que percorre um caminho sinuoso, como pode ser visto no diagrama abaixo:
 
 ![instalação de apartamento no bloco 2](/img/gas1-ap-3.jpg)
 
-Ao enfrentar obstáculo devido à instalação elétrica, o prestador de serviço simplesmente criou uma rota alternativa para a tubulação. Este é o trecho no segundo andar.
+Na fase inicial dessa instalação, um engenheiro do conselho consultivo do CRRC vetou a passagem da tubulação próximo à instalação elétrica. O prestador de serviço resolveu então criar uma rota alternativa para a tubulação. Este é o trecho no segundo andar.
 
 ![instalação de apartamento no bloco 2](/img/gas1-ap-1.jpg)
 
@@ -158,6 +158,22 @@ Este é o trecho no primeiro andar da mesma tubulação.
 ![instalação de apartamento no bloco 2](/img/gas1-ap-2.jpg)
 
 Será muito difícil entender o que se passa, caso seja necessária intervenção nessas paredes no futuro. Não há documentação sobre as alterações que estão sendo realizadas, ou seja, teremos em breve uma malha de tubos de gás nas paredes que poderá gerar acidentes e transtornos a todos. Há perigo de explosão e intoxicação de moradores com vazamentos de gás.
+
+Mas o caso ainda não terminou, pois um apartamento vizinho solicitou ao mesmo prestador de serviço que também fizesse sua instalação de gás. Ocorre que o engenheiro que havia vetado o trajeto da tubulação inicial se afastou do conselho consultivo. Aí então o prestador de serviço simplesmente decidiu, sem vetos dessa vez, passar a tubulação de forma mais conveniente. Veja como ficou a teia de aranha no diagrama a seguir:
+
+![instalação de apartamento no bloco 2](/img/gas1-ap-3.jpg)
+
+Este é o trecho no primeiro andar:
+
+![instalação de apartamento no bloco 2](/img/gas1-ap-4.jpg)
+
+E no segundo andar, o trecho que havia sido vetado voltou a ser usado para a nova cliente:
+
+![instalação de apartamento no bloco 2](/img/gas1-ap-5.jpg)
+
+Repare no detalhe que as tubulações voltam a se encontrar para atravessar a laje e acessar o telhado.
+
+![instalação de apartamento no bloco 2](/img/gas1-ap-6.jpg)
 
 ## Post no Facebook
 
