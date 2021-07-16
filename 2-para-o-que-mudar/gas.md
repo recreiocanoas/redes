@@ -73,7 +73,7 @@ Repare que a norma exige que ao atravessar lajes e paredes não existam pontos d
 
 ![gas-bloco 1](/img/gas1-ap-7.jpg)
 
-O resultado nesse caso é o risco de ocorrência de vazamentos pelo simples passar do tempo, com as paredes esquentando/resfriando durante dias/noites. Ou seja, há o risco de intoxicação coletiva por vazamentos de gás, mesmo sem que tenha havido qualquer intervenção nas paredes e/ou tubulações. Além disso, o padrão de instalação usado atualmente no CRRC não obedece aos critérios de afastamento mínimo entre as redes de distribuição internas embutidas de gás e de eletricidade, como visto na foto abaixo no bloco 2.
+O resultado nesse caso é o risco de ocorrência de vazamentos pelo simples passar do tempo, com as paredes esquentando/resfriando durante dias/noites. Ou seja, há o risco de intoxicação coletiva por vazamentos de gás, mesmo sem ter havido qualquer intervenção nas paredes e/ou tubulações. Além disso, o padrão de instalação usado atualmente no CRRC não obedece aos critérios de afastamento mínimo entre as redes de distribuição internas embutidas de gás e de eletricidade, como visto na foto abaixo no bloco 2.
 
 ![gas-bloco 1](/img/gas1-ap-5.jpg)
 
