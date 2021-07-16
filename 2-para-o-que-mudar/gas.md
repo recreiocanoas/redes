@@ -63,10 +63,9 @@ III - cassação de Certificado ou Autorização.
 A rede de distribuição é formada por um sistema de tubulações que conduz o gás até os pontos de utilização. Esta é uma norma da Associação Brasileira de Normas Técnicas que estabelece os requisitos mínimos exigíveis para o projeto e execução de redes de distribuição internas para gases combustíveis em instalações residenciais, abastecidas tanto por canalização de rua como por central de gás. 
 
 Maiores detalhes podem ser obtidos no link abaixo:
-- [ABNT NBR 15526](https://www.mjinstalacoes.com.br/wp-content/uploads/2018/04/ABNT-NBR-15526-2016-Atualizada.pdf)
-- Rede de distribuição interna para gases combustíveis em instalações residenciais
+- [ABNT NBR 15526](https://www.mjinstalacoes.com.br/wp-content/uploads/2018/04/ABNT-NBR-15526-2016-Atualizada.pdf): Rede de distribuição interna para gases combustíveis em instalações residenciais
 
-Segue um trecho da norma técnica ABNT NBR 15526 que demonstra a não conformidade das novas instalações de gás que vem sendo realizadas no CRRC e que foram anteriormente apresentadas no documento ["Gás: O que mudar"](/1-o-que-mudar/gas.md).
+Segue um trecho dessa norma técnica para demonstrar a não conformidade das instalações de gás realizadas no CRRC e que foram anteriormente apresentadas no documento ["Gás: O que mudar"](/1-o-que-mudar/gas.md).
 
 ![norma-técnica](/img/ABNT-gas-embutido.jpg)
 
