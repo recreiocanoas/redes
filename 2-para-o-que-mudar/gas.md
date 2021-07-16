@@ -92,3 +92,5 @@ A rede PIRATA de distribuição de gás atual deve ser totalmente descartada, po
 ![certificado-bombeiros](/img/telecom-b2-lixeira.jpg)
 
 A rede PIRATA de gás atual está colocando todos os blocos do CRRC em risco de intoxicação por vazamentos e incêndios, já que não obedece aos requisitos de uma rede segura de distribuição interna para gases combustíveis em instalações residenciais.
+
+A solução do gás seria o projeto e execução de uma rede OFICIAL de distribuição interna para gases combustíveis em instalações residenciais, com aprovação do Corpo de Bombeiros. Essa rede de distribuição, construída através de agentes qualificados, estaria de acordo com a legislação e normas técnicas vigentes, e teria aval da assembléia de moradores do CRRC.
