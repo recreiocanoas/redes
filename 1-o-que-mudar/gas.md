@@ -92,16 +92,6 @@ O acesso ao bloco 5 é feito por tubulação de gás enterrada, com proteção d
 ![gas-bloco 5](/img/gas-b5-acesso2.jpg)
 ![gas-bloco 5](/img/gas-b5-acesso1.jpg)
 
-<<<<<<< HEAD
-No entanto, quando chega ao telhado do bloco 5, a tubulação de gás de rua volta a ficar totalmente descoberta, como pode ser visto a seguir:
-
-![gas-bloco 5](/img/gas-b5-laje1.jpg)
-
-
-## Tubulação gás no telhado
-=======
-No entanto, quando chega ao telhado do bloco 5, a tubulação de gás de rua volta a ficar totalmente descoberta, como pode ser visto a seguir.
-
 ## Tubulação gás no telhado
 
 #### Tubulação irregular no telhado do bloco 5
@@ -114,11 +104,10 @@ Com medidores e tubulação expostas no telhado do bloco 5, há queixas de morad
 É preciso adequar essas instalações às normas de prevenção de incêndio e pânico vigentes na cidade do Rio de Janeiro. Para isso seria preciso dar entrada na prefeitura do projeto de distribuição de gás.
 
 ![gas-bloco 5](/img/gas-b5-laje2.jpg)
->>>>>>> 7aabb828dce73d0201dc3cf8180581266b406b99
 
 #### Tubulação irregular no telhado do bloco 2
 
-Por questões de segurança, os tubos de gás não podem ficar desprotegidos. Essa instalação não está de acordo com as normas técnicas vigentes. Não há projeto aprovado na prefeitura nem responsável técnico.
+Por questões de segurança, os tubos de gás não podem ficar desprotegidos. Essa instalação não está de acordo com as normas técnicas vigentes. Não há projeto aprovado na prefeitura nem responsável técnico para a rede de distribuição de gás de todo o CRRC.
 
 ![tubos gás no telhado bloco 2](/img/gas-b2-laje1.jpg)
 
@@ -143,11 +132,13 @@ Observa-se também uma rede de cabos de telecom nas lixeiras, assunto tratado em
 
 ## Tubulação de gás nos blocos
 
-A instalação de gás entre os blocos do condomínio não estão de acordo com as normas técnicas vigentes, com tubulação a descoberto. Veja a seguir um trecho no bloco 2 com proteção apenas parcial da tubulação.
+A instalação de gás entre os blocos do condomínio não atendem aos requisitos mínimos exigidos para o projeto e execução de redes de distribuição interna para gases combustíveis em instalações residenciais.
+
+Veja a seguir um trecho no bloco 2 com proteção parcial da tubulação.
 
 ![medidores gás no telhado bloco 2](/img/gas-b2.jpg)
 
-Veja a seguir outros trechos no bloco 1 com proteção apenas parcial da tubulação.
+Veja a seguir outros trechos no bloco 1 também com a tubulação exposta.
 
 ![medidores gás no telhado bloco 1](/img/gas-b1c.jpg)
 ![medidores gás no telhado bloco 1](/img/gas-b1d.jpg)
