@@ -161,7 +161,7 @@ Será muito difícil entender o que se passa, caso seja necessária intervençã
 
 Mas o caso ainda não terminou, pois um apartamento vizinho solicitou ao mesmo prestador de serviço que também fizesse sua instalação de gás. Ocorre que o engenheiro que havia vetado o trajeto da tubulação inicial se afastou do conselho consultivo. Aí então o prestador de serviço simplesmente decidiu, sem vetos dessa vez, passar a tubulação de forma mais conveniente. Veja como ficou a teia de aranha no diagrama a seguir:
 
-![instalação de apartamento no bloco 2](/img/gas1-ap-3.jpg)
+![instalação de apartamento no bloco 2](/img/gas1-ap-3a.jpg)
 
 Este é o trecho no primeiro andar:
 
