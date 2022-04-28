@@ -30,13 +30,18 @@ Poste ao lado da sede, onde se vê no topo a entrada da fibra ótica e os equipa
 
 ![image](/img/telecom-sede-poste-internet-1.jpg)
 
-A partir do poste de entrada a rede se espalha pelo condomínio, utilizado o caminho entre os postes situados nas vias do condomínio, como pode ser visto a seguir.
+A partir daí, a rede se espalha pelo condomínio, tendo sido utilizados a princípio os postes situados nas vias do condomínio, como pode ser visto a seguir.
 
 ![image](/img/telecom-vias-cabos-1.jpg)
 
-Com o tempo, os sinal de internet ganhou novos clientes e foi sendo estendido por rotas alternativas. Sem o consentimento nem o conhecimento da administração vemos hoje por exemplo uma conexão entre o castelo e o bloco 2 que é utilizado pelos macacos. Veja a seguir.
+Com o tempo, os provedores de internet existentes começaram a se expandir por rotas alternativas. Sem o consentimento nem o conhecimento da administração, vemos hoje por exemplo uma conexão entre o castelo e o bloco 2 que é utilizado regularmente pelos macacos. Veja a seguir.
 
 ![image](/img/telecom-mato-cabos-1.jpg)
+
+Se a idéia original da obra elétrica foi eliminar os cabos aéreos, não é possível que eles retornem na forma de centenas de cabos espalhados pela floresta. Até a imagem de nossa bela piscina tem sofrido o impacto dessa mudança.
+
+![image](/img/telecom-vias-piscina.jpg)
+
 
 
 
