@@ -16,7 +16,7 @@ A solução do PABX serviu aos interfones mas não resolveu o problema da distri
 
 Essa situação se repetiu durante a última década e pior, hoje há cabos de sinal espalhados pela mata e entrando pelas janelas dos apartamentos de forma indiscriminada. A política do CRRC de permitir aos fornecedores instalar aleatoriamente cabos pelo condomínio está levando à perda de controle e uma rede caótica de telecom, crescendo de forma desorganizada.
 
-Para facilitar a compreensão, vamos dividir a análise da chegada da fibra ótica em três etapas:
+Para facilitar, vamos dividir a análise da eventual chegada da fibra ótica ao CRRC em três etapas:
 
 - chegada da fibra ótica na portaria do CRRC;
 - chegada da fibra ótica aos blocos;
@@ -32,7 +32,7 @@ O cabeamento de sinal de telecom para os blocos pode ser realizado de duas forma
 
 ### Rede aérea
 
-Desde a obra de instalação dos dutos subterrâneos de energia elétrica para os blocos, os nossos postes das ruas internas passaram a ser utilizados exclusivamente para a rede elétrica de serviços, como iluminação interna, etc. Porém, há algum tempo a administração do CRRC vem autorizando provedores de sinal de Internet a instalar cabos nos postes situados ao longo das vias do condomínio. Como pode ser visto nas imagens abaixo, são identificados equipamentos das empresas Novanet e Conecta que nos atendem.
+Imediatamente após a obra de instalação dos dutos subterrâneos de energia elétrica, os nossos postes das ruas internas passaram a ser utilizados exclusivamente para a rede elétrica de serviços, como iluminação interna, etc. Porém, há algum tempo a administração do CRRC vem autorizando provedores de sinal de Internet a instalar cabos nos postes situados ao longo das vias do condomínio. Como pode ser visto nas imagens abaixo, são identificados equipamentos das empresas Novanet e Conecta que nos atendem.
 
 ![image](/img/telecom-sede-poste-internet-2.jpg)
 
