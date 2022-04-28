@@ -14,33 +14,66 @@ A solução do PABX serviu aos interfones mas não resolveu o problema da distri
 
 ![image](https://user-images.githubusercontent.com/86032/110663902-adc6b580-81a5-11eb-8f97-e93291d62c6f.png)
 
-Essa situação se repetiu durante a última década e pior, hoje há cabos de sinal espalhados pela mata e entrando pelas janelas dos apartamentos de forma indiscriminada. A política do CRRC de permitir aos fornecedores instalar aleatoriamente cabos pelo condomínio está nos levando a perder o controle sobre uma rede caótica de telecom que cresce de forma desorganizada.
+Essa situação se repetiu durante a última década e pior, hoje há cabos de sinal espalhados pela mata e entrando pelas janelas dos apartamentos de forma indiscriminada. A política do CRRC de permitir aos fornecedores instalar aleatoriamente cabos pelo condomínio está levando à perda de controle e uma rede caótica de telecom, crescendo de forma desorganizada.
 
-Abaixo vê-se o shaft de distribuição de sinal do bloco 2, totalmente saturado.
+Para facilitar a compreensão, vamos dividir a análise da chegada da fibra ótica em três etapas:
 
-![image](https://user-images.githubusercontent.com/86032/110668003-98538a80-81a9-11eb-92cc-6f190c4dff84.png)
+- chegada da fibra ótica na portaria do CRRC;
+- chegada da fibra ótica aos blocos;
+- chegada da fibra ótica aos apartamentos.
+
+#### Fibra ótica no CRRC
+
+No momento, temos observado poucas opções de chegada de sinal de Internet por fibra ótica na Estrada das Canoas. Para atrairmos empresas interessadas é necessário oferecer garantias de acesso aos blocos e apartamentos do condomínio.
+
+#### Fibra ótica nos blocos
+
+O cabeamento de sinal de telecom para os blocos pode ser realizado de duas formas: rede aérea ou subterrânea. Atualmente estamos utilizando ambas, como mostrado a seguir.
 
 ### Rede aérea
 
-Desde a obra de instalação dos dutos subterrâneos de energia elétrica para os blocos, os nossos postes das ruas internas vinham sendo utilizados exclusivamente para a rede elétrica de serviços, iluminação interna, etc. Porém, há algum tempo a administração do CRRC vem autorizando provedores de sinal de Internet a instalar cabos nos postes situados ao longo das vias do condomínio. Como pode ser visto nas imagens abaixo, são identificados equipamentos das empresas Novanet e Conecta que nos atendem.
+Desde a obra de instalação dos dutos subterrâneos de energia elétrica para os blocos, os nossos postes das ruas internas passaram a ser utilizados exclusivamente para a rede elétrica de serviços, como iluminação interna, etc. Porém, há algum tempo a administração do CRRC vem autorizando provedores de sinal de Internet a instalar cabos nos postes situados ao longo das vias do condomínio. Como pode ser visto nas imagens abaixo, são identificados equipamentos das empresas Novanet e Conecta que nos atendem.
 
 ![image](/img/telecom-sede-poste-internet-2.jpg)
 
-Poste ao lado da sede, onde se vê no topo a entrada da fibra ótica e os equipamentos repetidores mais abaixo.
+Há um poste de entrada ao lado da sede, onde se vê no topo a entrada da fibra ótica e os equipamentos repetidores mais abaixo.
 
 ![image](/img/telecom-sede-poste-internet-1.jpg)
 
-A partir daí, a rede se espalha pelo condomínio, tendo sido utilizados a princípio os postes situados nas vias do condomínio, como pode ser visto a seguir.
+A partir daí, a rede se espalha pelo condomínio, tendo sido utilizados, a princípio, postes situados nas vias do condomínio, como pode ser visto a seguir.
 
 ![image](/img/telecom-vias-cabos-1.jpg)
 
-Com o tempo, os provedores de internet existentes começaram a se expandir por rotas alternativas. Sem o consentimento nem o conhecimento da administração, vemos hoje por exemplo uma conexão entre o castelo e o bloco 2 que é utilizado regularmente pelos macacos. Veja a seguir.
+Com o tempo, os provedores de internet existentes começaram a se expandir por rotas alternativas. Sem o consentimento da administração, temos diversos cabos entre o castelo e o bloco 2 que são utilizados regularmente para transito de macacos, veja a seguir.
 
 ![image](/img/telecom-mato-cabos-1.jpg)
 
 Se a idéia original da obra elétrica foi eliminar os cabos aéreos, não é possível que eles retornem na forma de centenas de cabos espalhados pela floresta. Até a imagem de nossa bela piscina tem sofrido o impacto dessa mudança.
 
 ![image](/img/telecom-vias-piscina.jpg)
+
+### Rede subterrânea
+
+No mapa abaixo do CRRC pode-se ver a rede subterrânea original de telecom em traço preto pontilhado, seguindo pelo meio das vias principais do condomínio. São dutos com 80 mm de diâmetro, utilizados para passagem de cabos de sinal de telefone e internet entre os blocos. Foi feita uma vistoria (abril 2022) e correção da planta, apresentada mais adiante na seção "telecom - para o que mudar".
+
+![image](/img/crrc-mapa-eletrica-gas.png)
+
+Esta seria uma alternativa com capacidade de contemplar uma pequena parcela de provedores de Internet por fibra ótica que desejassem investir no CRRC.
+
+### Distribuição nos blocos
+
+Há um grande desafio na distribuição de sinais dentro dos blocos, pois a infraestrutura original do CRRC tem se mostrado insuficiente para suportar as necessidades do mundo moderno. Abaixo vê-se o shaft de distribuição de sinal do bloco 2, totalmente saturado.
+
+![image](https://user-images.githubusercontent.com/86032/110668003-98538a80-81a9-11eb-92cc-6f190c4dff84.png)
+
+A solução para esse congestionamento tem sido o escape pelo telhado, com mostrado abaixo:
+
+![image](/img/telecom-b2-telhado1.jpg)
+![image](/img/telecom-b2-telhado3.jpg)
+
+
+
+
 
 
 
