@@ -2,6 +2,8 @@
   
 ## O que mudar
 
+### Histórico
+
 Há treze anos atrás, a distribuição de sinais de telecom no condomínio foi debatida no âmbito do [projeto de uma rede  local de fibra ótica](https://github.com/recreiocanoas/radar/tree/master/2009-12-rede_local_canoas) que foi preterida pela administração da época. Com isso, o CRRC usa até hoje uma estação PABX de interfones com 200 cabos que conectam cada apartamento à portaria.
 
 A tecnologia PABX, já obsoleta na época em que foi adquirida, foi muito utilizada em escritórios mas não era a melhor opção aqui em nossa pequena floresta. A dificuldade em passar os cabos pela infraestrutura original do CRRC levou à instalação - na fachada dos blocos - de um tubo preto exclusivo para os interfones. A deterioração dos cabos metálicos frente à maresia de nossa região vem tornando árdua a tarefa de manutenção de interfones, com baixo retorno de qualidade. Abaixo, na fachada do bloco 5, vê-se o tubo preto entre as janelas do primeiro e segundo andar, juntamente com caixas de passagem cinza.
@@ -17,6 +19,30 @@ Essa situação se repetiu durante a última década e pior, hoje há cabos de s
 Abaixo vê-se o shaft de distribuição de sinal do bloco 2, totalmente saturado.
 
 ![image](https://user-images.githubusercontent.com/86032/110668003-98538a80-81a9-11eb-92cc-6f190c4dff84.png)
+
+### Rede aérea
+
+Desde a obra de instalação dos dutos subterrâneos de energia elétrica para os blocos, os nossos postes das ruas internas vinham sendo utilizados exclusivamente para a rede elétrica de serviços, iluminação interna, etc. Porém, há algum tempo a administração do CRRC vem autorizando provedores de sinal de Internet a instalar cabos nos postes situados ao longo das vias do condomínio. Como pode ser visto nas imagens abaixo, são identificados equipamentos das empresas Novanet e Conecta que nos atendem.
+
+![image](/img/telecom-sede-poste-internet-2.jpg)
+
+Poste ao lado da sede, onde se vê no topo a entrada da fibra ótica e os equipamentos repetidores mais abaixo.
+
+![image](/img/telecom-sede-poste-internet-1.jpg)
+
+A partir do poste de entrada a rede se espalha pelo condomínio, utilizado o caminho entre os postes situados nas vias do condomínio, como pode ser visto a seguir.
+
+![image](/img/telecom-vias-cabos-1.jpg)
+
+Com o tempo, os sinal de internet ganhou novos clientes e foi sendo estendido por rotas alternativas. Sem o consentimento nem o conhecimento da administração vemos hoje por exemplo uma conexão entre o castelo e o bloco 2 que é utilizado pelos macacos. Veja a seguir.
+
+![image](/img/telecom-mato-cabos-1.jpg)
+
+
+
+
+
+
 
 
 
