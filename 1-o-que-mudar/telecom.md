@@ -58,7 +58,7 @@ No mapa abaixo do CRRC pode-se ver a rede subterrânea original de telecom em tr
 
 ![image](/img/crrc-mapa-eletrica-gas.png)
 
-Esta seria uma alternativa com capacidade de contemplar uma pequena parcela de provedores de Internet por fibra ótica que desejassem investir no CRRC.
+A utilização da infraestrutura original do CRRC seria uma alternativa com capacidade limitada, capaz de contemplar uma pequena parcela de provedores de Internet por fibra ótica que desejassem investir no CRRC. Contudo, é preciso desenvolver outras alternativas para o futuro próximo, já que a demanda por serviços de Internet tende a aumentar no mundo atual.
 
 ### Distribuição nos blocos
 
