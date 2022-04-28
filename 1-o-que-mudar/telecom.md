@@ -66,7 +66,7 @@ Há um grande desafio na distribuição de sinais dentro dos blocos, pois a infr
 
 ![image](https://user-images.githubusercontent.com/86032/110668003-98538a80-81a9-11eb-92cc-6f190c4dff84.png)
 
-A solução para esse congestionamento tem sido o escape pelo telhado, com mostrado abaixo:
+A solução para esse congestionamento tem sido o escape pelo telhado, como mostrado a seguir:
 
 ![image](/img/telecom-b2-telhado1.jpg)
 ![image](/img/telecom-b2-telhado3.jpg)
