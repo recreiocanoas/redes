@@ -56,12 +56,14 @@ Há um [projeto de rede  local de fibra ótica](https://github.com/recreiocanoas
 
 ## Chegada dos cabos telecom aos apartamentos
 
-A etapa final de chegada do sinal dos provedores de Internet aos apartamentos é um enorme desafio, pois vai exigir uma obra na infraestrutura de distribuição de cabos de telecom, assim como no caso da energia elétrica, do gás e da água.
+A etapa final de chegada do sinal dos provedores de Internet aos apartamentos é um enorme desafio, pois vai exigir uma obra na infraestrutura de distribuição de cabos de telecom. Como também nos casos da energia elétrica, do gás e da água.
 
-Da mesma forma que foi realizado com a energia elétrica, é preciso antes de mais nada realizar uma pesquisa minuciosa para verificar as condições de cada apartamento. Seria preciso responder às seguintes perguntas:
+Da mesma forma que foi realizado com a energia elétrica, é preciso realizar uma pesquisa para verificar as condições de cada apartamento. Seria preciso responder às seguintes perguntas:
 
 - Tem serviço Internet ou TV a cabo instalado? Qual?
 - O acesso dos cabos é pelo shaft do bloco? ou pela janela?
-- Tem antena no telhado?
+- Tem cabos para antena no telhado?
 
-É preciso levantar mais informações para elaboração dos projetos de distribuição, tanto da energia elétrica, quanto do sinal de telecom. Há apartamentos que estão corretamente ligados à infraestrutura do CRRC, outros não. O projeto deve focar em atender aos que necessitam de auxílio para regularizar sua infraestrutura, levando em conta aqueles que já investiram em soluções para suas unidades.
+É preciso levantar mais informações para elaboração de um projeto único de distribuição, tanto da energia elétrica, quanto do sinal de telecom.
+
+Verifica-se que há apartamentos conectados sem problemas à infraestrutura atual do CRRC. Há outros casos em que isso não acontece. Com isso, o projeto deve focar em atender aos que necessitam de auxílio para regularizar sua infraestrutura, levando em conta também aqueles que já investiram em soluções para suas unidades.
