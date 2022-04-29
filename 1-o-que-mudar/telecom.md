@@ -2,8 +2,6 @@
   
 ## O que mudar
 
-### Histórico
-
 Há treze anos atrás, a distribuição de sinais de telecom no condomínio foi debatida no âmbito do [projeto de uma rede  local de fibra ótica](https://github.com/recreiocanoas/radar/tree/master/2009-12-rede_local_canoas) que foi preterida pela administração da época. Com isso, o CRRC usa até hoje uma estação PABX de interfones com 200 cabos que conectam cada apartamento à portaria.
 
 A tecnologia PABX, já obsoleta na época em que foi adquirida, foi muito utilizada em escritórios mas não era a melhor opção aqui em nossa pequena floresta. A dificuldade em passar os cabos pela infraestrutura original do CRRC levou à instalação - na fachada dos blocos - de um tubo preto exclusivo para os interfones. A deterioração dos cabos metálicos frente à maresia de nossa região vem tornando árdua a tarefa de manutenção de interfones, com baixo retorno de qualidade. Abaixo, na fachada do bloco 5, vê-se o tubo preto entre as janelas do primeiro e segundo andar, juntamente com caixas de passagem cinza.
@@ -16,19 +14,13 @@ A solução do PABX serviu aos interfones mas não resolveu o problema da distri
 
 Essa situação se repetiu durante a última década e pior, hoje há cabos de sinal espalhados pela mata e entrando pelas janelas dos apartamentos de forma indiscriminada. A política do CRRC de permitir aos fornecedores instalar aleatoriamente cabos pelo condomínio está levando à perda de controle e uma rede caótica de telecom, crescendo de forma desorganizada.
 
-Para facilitar, vamos dividir a análise da eventual chegada da fibra ótica ao CRRC em três etapas:
+Vamos dividir em três etapas os desafios de uma eventual chegada da fibra ótica ao CRRC:
 
-- chegada da fibra ótica na portaria do CRRC;
-- chegada da fibra ótica aos blocos;
-- chegada da fibra ótica aos apartamentos.
+- chegada da fibra ótica ao CRRC: No momento, temos observado poucas opções de chegada de sinal de Internet por fibra ótica na Estrada das Canoas. Para atrairmos empresas interessadas é necessário oferecer garantias de acesso aos blocos e apartamentos do condomínio.
 
-#### Fibra ótica no CRRC
+- chegada da fibra ótica aos blocos: O cabeamento de sinal de telecom para os blocos pode ser realizado de duas formas: rede aérea ou subterrânea. Atualmente estamos utilizando ambas, como mostrado a seguir.
 
-No momento, temos observado poucas opções de chegada de sinal de Internet por fibra ótica na Estrada das Canoas. Para atrairmos empresas interessadas é necessário oferecer garantias de acesso aos blocos e apartamentos do condomínio.
-
-#### Fibra ótica nos blocos
-
-O cabeamento de sinal de telecom para os blocos pode ser realizado de duas formas: rede aérea ou subterrânea. Atualmente estamos utilizando ambas, como mostrado a seguir.
+- chegada da fibra ótica aos apartamentos: esse é o maior desafio, pois vai exigir uma obra para melhorar a infraestrutura de distribuição, assim como no caso da energia elétrica, do gás e da água.
 
 ### Rede aérea
 
@@ -60,7 +52,7 @@ No mapa abaixo do CRRC pode-se ver a rede subterrânea original de telecom em tr
 
 A utilização da infraestrutura original do CRRC seria uma alternativa com capacidade limitada, capaz de contemplar uma pequena parcela de provedores de Internet por fibra ótica que desejassem investir no CRRC. Contudo, é preciso desenvolver outras alternativas para o futuro próximo, já que a demanda por serviços de Internet tende a aumentar no mundo atual.
 
-### Distribuição nos blocos
+### Distribuição interna nos blocos
 
 Há um grande desafio na distribuição de sinais dentro dos blocos, pois a infraestrutura original do CRRC tem se mostrado insuficiente para suportar as necessidades do mundo moderno. Abaixo vê-se o shaft de distribuição de sinal do bloco 2, totalmente saturado.
 
