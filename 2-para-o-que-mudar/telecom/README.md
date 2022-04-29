@@ -46,6 +46,8 @@ Tomando por base nossas plantas originais e com o auxílio luxuoso da equipe de 
 
 Acompanhe no mapa que a tubulação de 80 mm de diâmetro vai se bifurcando e segue da sede até os blocos. No meio do trajeto há uma dúzia de caixas da CETEL, representadas por círculos pretos. Essa tubulação leva aos "shafts" de cada bloco, onde supõe-se que deveriam existir somente cabos, roteados direto para os apartamentos.
 
+Na planta há menção de uma obstrução na caixa localizada em frente ao bloco 5. Provavelmente está sendo provocada por alguma raiz de árvore que quebrou a manilha de cerâmica e exigirá providência para reparos ou abertura de um novo duto.
+
 ### Rede subterrânea elétrica
 
 Com certeza, iremos aproveitar ao máximo a rede subterrânea de telecom original do condomínio para passar cabos de fibra ótica. Contudo, por ser uma opção limitada, não será suficiente em um futuro bem próximo. Teremos então a necessidade de expandir a rede de fibra ótica, quer seja para aumentar a oferta de provedores, quer seja para ampliar a banda passante instalada.
