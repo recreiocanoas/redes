@@ -70,6 +70,6 @@ A solução para esse congestionamento tem sido o escape pelo telhado, como most
 Os cabos do telhado descem desorganizados pela fachada dos blocos para alcançar as janelas dos apartamentos. Com isso, ocorre um efeito colateral indesejado, pois os macacos se utilizam dos cabos pendurados para realizar um rapel em busca de alimentos. Já foram registradas diversas invasões e situações constrangedoras para os moradores, pois estamos no meio da floresta. Vejam alguns flagrantes a seguir:
 
 ![image](/img/telecom-bloco-fachada-macaco-1.jpg)
+![image](/img/telecom-bloco-fachada-macaco-4.png)
 ![image](/img/telecom-bloco-fachada-macaco-2.jpg)
 ![image](/img/telecom-bloco-fachada-macaco-3.png)
-![image](/img/telecom-bloco-fachada-macaco-4.png)
