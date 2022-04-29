@@ -50,7 +50,7 @@ Acompanhe no mapa que a tubulação de 80 mm de diâmetro vai se bifurcando e se
 
 Com certeza, iremos aproveitar ao máximo a rede subterrânea de telecom original do condomínio para passar cabos de fibra ótica. Contudo, por ser uma opção limitada, não será suficiente em um futuro bem próximo. Teremos então a necessidade de expandir a rede de fibra ótica, quer seja para aumentar a oferta de provedores, quer seja para ampliar a banda passante instalada.
 
-Já temos uma rede subterrânea com cabos elétricos que saem de dois alimentadores da Light. Um próximo à sede e outro na muralha, ao lado do bloco 5. Dali partem dutos que podem ser utilizados para passagem de cabos de fibra ótica.
+Já temos uma [rede subterrânea](/1-o-que-mudar/telecom.md#rede-subterrânea) com cabos elétricos que saem de dois alimentadores da Light. Um próximo à sede e outro na muralha, ao lado do bloco 5. Dali partem dutos que podem ser utilizados para passagem de cabos de fibra ótica.
 
 Há um [projeto de rede  local de fibra ótica](https://github.com/recreiocanoas/radar/tree/master/2009-12-rede_local_canoas) proposto ao CRRC em 2009 que mostra mais detalhes dessa solução.
 
