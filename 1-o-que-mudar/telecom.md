@@ -44,7 +44,7 @@ Com o tempo, os provedores de internet começaram a se expandir por rotas altern
 
 ![image](/img/telecom-mato-cabos-1.jpg)
 
-Se a idéia original da obra elétrica foi eliminar os cabos aéreos, não é possível que eles retornem na forma de centenas de cabos espalhados pela floresta. Até a imagem de nossa bela piscina tem sofrido o impacto dessa mudança.
+Se a idéia original da obra elétrica foi eliminar cabos aéreos, não é razoável que eles retornem na forma de centenas de cabos espalhados pela floresta. Até a imagem de nossa bela piscina tem sofrido o impacto dessa mudança.
 
 ![image](/img/telecom-vias-piscina.jpg)
 
