@@ -24,7 +24,7 @@ Considerando as etapas necessárias para fazer chegar a fibra ótica ao CRRC, te
 
 - **chegada da fibra ótica aos apartamentos**: A etapa final de chegada do sinal dos provedores de Internet aos apartamentos é um enorme desafio, pois vai exigir uma obra na infraestrutura de distribuição de cabos de telecom, assim como no caso da energia elétrica, do gás e da água.
 
-Não temos controle sobre a decisão de investidores em trazer o sinal de fibra ótica até a porta do condomínio. Por isso, resta-nos avaliar a melhor estratégia para facilitar a distribuição da fibra ótica entre os blocos e apartamentos, como mostrado a seguir.
+Segue um detalhamento das duas últimas etapas, apontando as principais fragilidades da infraestrutura de distribuição interna de sinais de telecom no condomínio.
 
 ### Rede aérea
 
@@ -50,7 +50,7 @@ Se a idéia original da obra elétrica foi eliminar cabos aéreos, não é razo�
 
 ### Rede subterrânea
 
-No mapa abaixo do CRRC pode-se ver a rede subterrânea original de telecom em traço preto pontilhado, seguindo pelo meio das vias principais do condomínio. São dutos com 80 mm de diâmetro, utilizados para passagem de cabos de sinal de telefone e internet entre os blocos. Foi feita uma vistoria (abril 2022) e correção da planta, apresentada mais adiante na seção "telecom - para o que mudar".
+No mapa abaixo do CRRC pode-se ver a rede subterrânea original de telecom em traço preto pontilhado, seguindo pelo meio das vias principais do condomínio. São dutos com 80 mm de diâmetro, utilizados para passagem de cabos de sinal de telefone e internet entre os blocos. Foi feita uma vistoria (abril 2022) e correção da planta, apresentada mais adiante na seção ["telecom - para o que mudar"](/2-para-o-que-mudar/telecom/README.md).
 
 ![image](/img/crrc-mapa-eletrica-gas.png)
 
