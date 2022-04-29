@@ -24,7 +24,7 @@ Considerando as etapas necessárias para fazer chegar a fibra ótica ao CRRC, te
 
 - **chegada da fibra ótica aos apartamentos**: A etapa final de chegada do sinal dos provedores de Internet aos apartamentos é um enorme desafio, pois vai exigir uma obra na infraestrutura de distribuição de cabos de telecom, assim como no caso da energia elétrica, do gás e da água.
 
-Não temos controle sobre a decisão de investidores em trazer a fibra até a Estrada das Canoas, 722. Por isso, resta-nos avaliar a melhor estratégia para facilitar a distribuição da fibra ótica entre os blocos e apartamentos, como mostrado a seguir.
+Não temos controle sobre a decisão de investidores em trazer o sinal de fibra ótica até a porta do condomínio. Por isso, resta-nos avaliar a melhor estratégia para facilitar a distribuição da fibra ótica entre os blocos e apartamentos, como mostrado a seguir.
 
 ### Rede aérea
 
@@ -36,11 +36,11 @@ Há um poste de entrada ao lado da sede, onde se vê no topo a entrada da fibra 
 
 ![image](/img/telecom-sede-poste-internet-1.jpg)
 
-A partir daí, a rede se espalha pelo condomínio, tendo sido utilizados, a princípio, postes situados nas vias do condomínio, como pode ser visto a seguir.
+A partir daí, a rede se espalha pelo condomínio, misturada aos cabos de energia elétrica. Estão sendo utilizados os postes situados nas vias do condomínio, como pode ser visto na imagem a seguir.
 
 ![image](/img/telecom-vias-cabos-1.jpg)
 
-Com o tempo, os provedores de internet existentes começaram a se expandir por rotas alternativas. Sem o consentimento da administração, temos diversos cabos entre o castelo e o bloco 2 que são utilizados regularmente para transito de macacos, veja a seguir.
+Com o tempo, os provedores de internet começaram a se expandir por rotas alternativas. Sem o aval da administração, temos muitos cabos atravessados entre o bloco 3, o castelo e o bloco 2. Um efeito colateral dessa desorganização é seu uso regular para transito dos macacos, veja a seguir.
 
 ![image](/img/telecom-mato-cabos-1.jpg)
 
