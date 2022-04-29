@@ -54,8 +54,6 @@ No mapa abaixo do CRRC pode-se ver a rede subterrânea original de telecom em tr
 
 ![image](/img/crrc-mapa-eletrica-gas.png)
 
-A utilização da infraestrutura original do CRRC seria uma alternativa com capacidade limitada, capaz de contemplar uma pequena parcela de provedores de Internet por fibra ótica que desejassem investir no CRRC. Contudo, é preciso desenvolver outras alternativas para o futuro próximo, já que a demanda por serviços de Internet tende a aumentar no mundo atual.
-
 ### Distribuição interna nos blocos
 
 Há um grande desafio na distribuição de sinais dentro dos blocos, pois a infraestrutura original do CRRC tem se mostrado insuficiente para suportar as necessidades do mundo moderno. Abaixo vê-se o shaft de distribuição de sinal do bloco 2, totalmente saturado.
@@ -71,7 +69,7 @@ Os cabos do telhado descem desorganizados pela fachada dos blocos para alcançar
 
 Vejam alguns flagrantes a seguir:
 
-![image](/img/telecom-bloco-fachada-macaco-1.jpg)
 ![image](/img/telecom-bloco-fachada-macaco-4.png)
+![image](/img/telecom-bloco-fachada-macaco-1.jpg)
 ![image](/img/telecom-bloco-fachada-macaco-2.jpg)
 ![image](/img/telecom-bloco-fachada-macaco-3.png)
