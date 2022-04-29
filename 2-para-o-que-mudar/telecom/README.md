@@ -24,7 +24,7 @@ Segue uma análise mais detalhada dessas três opções.
 
 Esta é uma distribuição indesejada, pois tem se mostrado bastante desorganizada. A proliferação de cabos de forma indisciminada pelo condomínio, dificulta a manutenção e documentação da rede existente. Além disso, há sérias preocupações com a segurança, pois há cabos de energia elétrica trafegando próximos a cabos de telecom. Sem garantias de isolamento, os cabos metálicos de par trançado não resistem ao tempo e estão sujeitos à interferências eletro-magnéticas.
 
-### Rede subterrrânea original de telecom
+### Rede subterrrânea de telecom
 
 Foi realizada uma vistoria (03/2022) à rede subterrânea original do condomínio, caracterizada pelas tampas da antiga compania telefônica existentes em nossas vias principais. Com exceção de um trecho obstruído na chegada ao bloco 5, os demais dutos existentes se encontram capazes de suportar a passagem de mais alguns cabos de fibra ótica.
 
