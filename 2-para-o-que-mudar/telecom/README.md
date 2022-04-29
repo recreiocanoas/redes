@@ -52,7 +52,7 @@ Com certeza, iremos aproveitar ao máximo a rede subterrânea de telecom origina
 
 Já temos uma rede subterrânea com cabos elétricos que saem de dois alimentadores da Light. Um próximo à sede e outro na muralha, ao lado do bloco 5. Dali partem dutos que podem ser utilizados para passagem de cabos de fibra ótica.
 
-Há um [projeto de rede  local de fibra ótica](https://github.com/recreiocanoas/radar/tree/master/2009-12-rede_local_canoas) proposto ao CRRC em 2009 que mostra mais detalhes dessa solução.
+Há um [projeto de rede  local de fibra ótica](https://github.com/recreiocanoas/radar/tree/master/2009-12-rede_local_canoas/Projeto_Rede_Local_Canoas_1.0.pdf) proposto ao CRRC em 2009 que mostra mais detalhes dessa solução.
 
 ## Chegada dos cabos telecom aos apartamentos
 
