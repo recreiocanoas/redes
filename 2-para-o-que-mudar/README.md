@@ -14,7 +14,7 @@ Podemos seguir adiante com dois tipos de distribuição, a ser decidida em assem
 
 - Gás de rua: Seria preciso rever as [falhas](/1-o-que-mudar/gas.md) na tubulação atual em áreas externas. 
 
-- Gás de cilindros: Evita a tubulação de gás de rua, os cilindros seriam instalados perto dos blocos. Os fornecedores devem ser chamados para expor as vantagens e desvantagens desse tipo de fornecimento.
+- Gás de cilindros: Evita a tubulação de rua, com cilindros instalados perto dos blocos. Os fornecedores podem ser chamados para expor as vantagens e desvantagens desse tipo de fornecimento.
 
 A partir das informações dos fornecedores, a assembleia de moradores pode decidir pelo tipo de gás que o condomínio irá adotar.
 
