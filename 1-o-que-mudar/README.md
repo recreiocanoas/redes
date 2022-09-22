@@ -12,7 +12,7 @@
 
 - Uma rede de gás de rua foi instalada, sem projeto aprovado nos órgãos públicos. Com os tubos expostos e medidores instalados no telhado, força o pessoal da concessionária à ter que subir no telhado dos blocos para leitura.
 
-- A rede de gás de rua atende às normas da ABNT - Associação Brasileira de Normas Técnicas e inviabiliza o devido e necessário certificado do Corpo de Bombeiros.
+- A rede de gás de rua NÃO atende às normas da ABNT - Associação Brasileira de Normas Técnicas e inviabiliza o devido e necessário certificado do Corpo de Bombeiros.
 
 - Por incentivo de administração passada, diversas unidades fizeram instalação de gás de rua utilizando rotas anárquicas pelas paredes dos blocos. Não há documentação e as instalações não atendem às normas e boas práticas recomendadas pela ABNT.
 
