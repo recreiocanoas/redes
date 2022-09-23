@@ -33,7 +33,7 @@ A partir das informações dos fornecedores, a assembleia de moradores pode deci
 
 - Deve ser dado um prazo para que os fornecedores que passam cabos aéreos se adaptarem.
 
-- Lembrar aos moradores que temos opção Net e Oi Fibra.
+- Lembrar aos moradores que já temos opções pela Net e Oi Fibra.
 
 - Os shafts devem voltar a ser usados unicamente para passagem de cabos.
 
