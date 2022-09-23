@@ -31,7 +31,7 @@ A partir das informações dos fornecedores, a assembleia de moradores pode deci
 
 - Devemos usar somente as vias subterrâneas, já totalmente liberadas e desimpedidas.
 
-- Deve ser dado um prazo para que os fornecedores que passam cabos aéreos se adaptem.
+- Deve ser dado um prazo para que os fornecedores que passam cabos aéreos se adaptarem.
 
 - Lembrar aos moradores que temos opção Net e Oi Fibra.
 
