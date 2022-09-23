@@ -1,5 +1,5 @@
 # redes
-### Redes para Distribuição de Energia, Água, Gás e Telecom.
+### Redes de Distribuição de Gás, Água, Telecom e Elétrica
 
 #### Nota inicial sobre a Covid-19:
 
