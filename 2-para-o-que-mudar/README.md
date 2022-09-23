@@ -23,6 +23,8 @@ A partir das informações dos fornecedores, a assembleia de moradores pode deci
 
 - Caso a unidade não disponha de registro interno, deverá ser instalado um registro externo no telhado.
 
+- Aqueles que não conseguiram ainda solucionar o problema devem ser identificados e incluídos nos custos da obra. Poderiam arcar com uma parte das despesas.
+
 ### Telecom
 
 - Toda a fiação dos postes do condomínio deve ser eliminada.
