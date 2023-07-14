@@ -27,9 +27,9 @@ Tendo em vista o espaço limitado dos blocos para distribuição de dutos de ene
 
 Organizando o projeto em três partes, poderemos tratar dos assuntos correlatos em paralelo:
 
-- **[O que mudar](1-o-que-mudar.md)**: avalia-se o que deve ser mudado em cada rede de distribuição.
-- **[Para o que mudar](2-para-o-que-mudar.md)**: discute-se as melhores alternativas e soluções para cada rede.
-- **[Como mudar](3-como-mudar.md)**: organiza-se o cronograma e a melhor forma de atingir os objetivos.
+- **[O que mudar](/1-o-que-mudar/)**: avalia-se o que deve ser mudado em cada rede de distribuição.
+- **[Para o que mudar](/2-para-o-que-mudar/)**: discute-se as melhores alternativas e soluções para cada rede.
+- **[Como mudar](/3-como-mudar/)**: organiza-se o cronograma e a melhor forma de atingir os objetivos.
 
 ## Como participar
 
