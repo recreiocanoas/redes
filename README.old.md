@@ -1,0 +1,41 @@
+# redes
+### Redes de Distribuição de Gás, Água, Telecom e Elétrica
+
+Mensagens de texto no WhatsApp são extremamanente ineficientes para textos longos, devendo ser limitadas à divulgação de recados de conhecimento geral. O objetivo deste **repositório de dados** é dar suporte à participação de todos, de casa, de acordo com a disponibilidade individual de cada um. Poderemos assim cooperar de forma efetiva e segura para um condomínio melhor.
+
+## Introdução
+
+O CRRC é um condomínio antigo que carece de obras na distribuição de Energia, Água, Gás e Sinais de Comunicação. A [AGE de 11-04-2021](https://github.com/recreiocanoas/radar/files/6378219/ata.11.de.abril.1.pdf) ampliou o espectro da reforma da rede elétrica para que possamos realizar uma avaliação mais profunda da situação atual e dos rumos a tomar.
+
+Este repositório de dados diz respeito a uma obra que trará muitos inconvenientes para todos, pelas diversas razões abaixo expostas. Apesar da urgência e gravidade de todos os problemas já conhecidos de todos, resta-nos uma vantagem crucial: ainda não fizemos nada. Como assim? Sim, essa é a razão pela qual devemos planejar bem os primeiros passos, de forma que eles não se tornem impecilhos nas tomadas de decisão futuras.
+
+- A obra irá envolver principalmente as áreas comuns, corredores, etc;
+- A obra irá adicionar um tráfego de peões que deve ser minimizado para evitar impactos sanitários;
+- A obra ameaça afetar residências devido ao impacto no fornecimento de energia elétrica, entre outros;
+- A obra envolve a aprovação, tratamento financeiro e auditoria de cotas extras;
+- A obra requer investimento em uma solução global definitiva e não em remendos parciais descoordenados;
+- A obra envolve a contratação de empreiteiros habilitados para realização dos serviços;
+- A obra envolve a fiscalização e medição dos serviços realizados pelos empreiteiros.
+
+Tendo em vista o espaço limitado dos blocos para distribuição de dutos de energia, água, gás e sinais de comunicação é preciso considerar um projeto guarda-chuva que contemple a melhor solução possível. Desta forma, pode-se realizar o comissionamento das obras de forma ordenada e segura, sem precisar voltar atrás e retrabalhar o que já foi feito. O objetivo portanto é elaborar um panorama envolvendo:
+
+- rede de distribuição de energia elétrica;
+- rede de distribuição de água;
+- rede de distribuição de gás;
+- rede de distribuição de sinais de telefone, Internet e TV a cabo.
+- conexão entre blocos, sede, portaria, piscina, etc.
+
+Organizando o projeto em três partes, poderemos tratar dos assuntos correlatos em paralelo:
+
+- **[O que mudar](1-o-que-mudar.md)**: avalia-se o que deve ser mudado em cada rede de distribuição.
+- **[Para o que mudar](2-para-o-que-mudar.md)**: discute-se as melhores alternativas e soluções para cada rede.
+- **[Como mudar](3-como-mudar.md)**: organiza-se o cronograma e a melhor forma de atingir os objetivos.
+
+## Como participar
+
+Para colaboração com o conteúdo deste repositório é preciso se autenticar, [abra uma conta gratuita no Github](https://pt.wikihow.com/Criar-uma-Conta-no-GitHub). A partir daí, seu respectivo "id" será [adicionado ao grupo](https://github.com/orgs/recreiocanoas/people), possibilitando o uso de recursos básicos simplificados, tais como:
+
+1. Utilize a página [discussions](https://github.com/recreiocanoas/redes/discussions) para cooperação  através de discussões focadas por assunto.
+2. Crie, adicione sua opinião e/ou vote em uma [issue](https://github.com/recreiocanoas/redes/issues). As **issues** mais votadas pela comunidade ganham prioridade de forma natural e permitem uma avaliação do interesse geral em cada caso.
+
+Favor contactar para instruções sobre workflow de colaboradores.

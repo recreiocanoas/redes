@@ -1,11 +1,7 @@
-# Condomínio Residencial Recreio das Canoas
+# Condomínio Recreio das Canoas
 ### Redes de Distribuição de Gás, Água, Telecom e Elétrica
   
 ## O que mudar
-
-Para orientar as decisões sobre as mudanças necessárias nas redes de distribuição do CRRC foi contratado um [Parecer Técnico dos Sistemas Prediais do Condomínio Residencial Recreio das Canoas](/doc/ParecerTecnico.pdf) com registro de [ART](/doc/ARTDefinitiva.pdf).
-
-Segue um breve resumo das condições e objetivos a serem alcançados.
 
 ### Gás
 
