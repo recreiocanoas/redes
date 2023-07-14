@@ -11,7 +11,7 @@ A partir das orientações técnicas sugeridas pelas seções:
 
 Tendo em vista as dificuldades de conciliar o orçamento e a execução das obras em um projeto deste porte, seria realizada uma licitação escalonada de acordo com o fluxo financeiro da empreitada.
 
-Contudo, devemos separar bem o projeto da obra em si, ou seja, será contratado de empresas especializadas de engenharia um projeto global que atenda a todos os requisitos das seções acima listadas.
+Contudo, devemos separar bem o projeto da obra em si, ou seja, conforme reunião da equipe de trabalho, será [contratado de empresas especializadas de engenharia](/doc/2023.07.10.resumo.reuniao.pdf) projetos que somados atendam a TODOS os requisitos das seções acima listadas.
 
 Como sabemos que dificilmente encontraremos um fornecedor único para essa empreitada, a partir do projeto serão selecionadas as melhores empresas para fornecimento dos serviços de engenharia, levando em conta critérios de avaliação técnica e financeira dos parceiros a serem contratados.
 
