@@ -1,10 +1,6 @@
 # redes
 ### Redes de Distribuição de Gás, Água, Telecom e Elétrica
 
-#### Nota inicial sobre a Covid-19:
-
-Conforme orientações das autoridades sanitárias, devemos evitar ao máximo realizar reuniões presenciais. Apesar das dificuldades impostas pelo pior momento da pandemia Covid, há ferramentas que podem auxiliar no planejamento de obras futuras de forma eficiente e segura, eliminando aglomerações.
-
 Mensagens de texto no WhatsApp são extremamanente ineficientes para textos longos, devendo ser limitadas à divulgação de recados de conhecimento geral. O objetivo deste **repositório de dados** é dar suporte à participação de todos, de casa, de acordo com a disponibilidade individual de cada um. Poderemos assim cooperar de forma efetiva e segura para um condomínio melhor.
 
 ## Introdução
