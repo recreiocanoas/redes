@@ -13,7 +13,7 @@ Este é o conjunto mínimo de informações para que alguém participe, colabora
 
 [CRRC - Redes de Distribuição de Gás, Água, Telecom e Elétrica](https://github.com/recreiocanoas/redes)
 
-Para isso, será usado o **Github**, uma ferramenta bastante popular entre os profissionais de software, adaptada e simplificada exclusivamente para a essa finalidade.
+Para isso, será usado o **Github**, uma ferramenta bastante popular entre os profissionais de software, adaptada e simplificada exclusivamente para essa finalidade.
 
 ### Repositório
 
