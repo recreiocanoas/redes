@@ -53,4 +53,4 @@ Os **assuntos** (ou issues no Github):
 
 ### Pessoas
 
-Finalmente e o mais importante: é preciso que cada participante abra uma conta GRATUITA no site [github.com](https://github.com/). Desta forma, será possível obter a sua identidade individual que irá garantir a autenticação de cada participante. Veja a lista das [pessoas do CRRC](https://github.com/recreiocanoas/redes/people) já registradas no Github.
+Finalmente e o mais importante: é preciso que cada participante abra uma conta GRATUITA no site [github.com](https://github.com/). Desta forma, será possível obter a sua identidade individual que irá garantir a autenticação de cada participante. Veja a lista das [pessoas do CRRC](https://github.com/recreiocanoas/redes/people) já registradas no Github. É preciso fazer login no Github para ver essa lista.
