@@ -11,6 +11,8 @@ Tendo em vista a necessidade de colaboração de uma grande equipe composta de  
 
 Este é o conjunto mínimo de informações para que alguém participe, colaborando na construção do [site do CRRC](https://github.com/recreiocanoas/redes) que irá **acompanhar o antes, durante e depois da obra**.
 
+[CRRC - Redes de Distribuição de Gás, Água, Telecom e Elétrica](https://github.com/recreiocanoas/redes)
+
 Para isso, será usado o **Github**, uma ferramenta bastante popular entre os profissionais de software, adaptada e simplificada exclusivamente para a essa finalidade.
 
 ### Repositório
