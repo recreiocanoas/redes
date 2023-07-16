@@ -1,4 +1,4 @@
-# Condomínio Recreio das Canoas
+# Condomínio Residencial Recreio das Canoas
 ### Redes de Distribuição de Gás, Água, Telecom e Elétrica
   
 ## Como mudar

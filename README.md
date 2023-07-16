@@ -1,7 +1,11 @@
-# redes
+# Condomínio Residencial Recreio das Canoas
 ### Redes de Distribuição de Gás, Água, Telecom e Elétrica
+  
+## Home
 
-Mensagens de texto no WhatsApp são extremamanente ineficientes para textos longos, devendo ser limitadas à divulgação de recados de conhecimento geral. O objetivo deste **repositório de dados** é dar suporte à participação de todos, de casa, de acordo com a disponibilidade individual de cada um. Poderemos assim cooperar de forma efetiva e segura para um condomínio melhor.
+### Repositório para acompanhamento do antes, durante e depois da obra.
+
+Mensagens de texto no WhatsApp são extremamanente ineficientes para textos longos, devendo ser limitadas à divulgação de recados de conhecimento geral. O objetivo deste **repositório de dados** é dar suporte à participação de todos, conforme a disponibilidade individual de cada um. Poderemos assim cooperar de forma efetiva e segura para um CRRC melhor.
 
 ## Introdução
 
