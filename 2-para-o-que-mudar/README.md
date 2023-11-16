@@ -3,9 +3,9 @@
   
 ## Para o que mudar
 
-Esta é uma obra que o condomínio nunca viu igual, desde a sua construção.
+Esta é uma obra que o condomínio nunca viu igual, desde a sua construção. Cabe lembrar o tamanho do desafio que será passar uma nova infraestrutura de gás, água, telecom e elétrica para todas as duzentas unidades do condomínio. Realizar uma intervenção o mais cirúrgica possível permitiria reduzir custos, tempos e aborrecimentos decorrentes da obra.
 
-Cabe lembrar o tamanho do desafio que será passar uma nova infraestrutura de gás, água, telecom e elétrica para todas as duzentas unidades do condomínio. Realizar uma intervenção o mais cirúrgica possível permitiria reduzir custos, tempos e aborrecimentos decorrentes da obra.
+Para orientar as decisões sobre as mudanças necessárias nas redes de distribuição do CRRC foi contratado um [Parecer Técnico dos Sistemas Prediais do Condomínio Residencial Recreio das Canoas](/doc/ParecerTecnico.pdf) com registro de [ART](/doc/ARTDefinitiva.pdf).
 
 ### Gás
 
