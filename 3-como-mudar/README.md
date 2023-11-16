@@ -3,6 +3,8 @@
   
 ## Como mudar
 
+Para orientar as decisões sobre as mudanças necessárias nas redes de distribuição do CRRC foi contratado um [Parecer Técnico dos Sistemas Prediais do Condomínio Residencial Recreio das Canoas](/doc/ParecerTecnico.pdf) com registro de [ART](/doc/ARTDefinitiva.pdf).
+
 ### Organiza-se o cronograma e a melhor forma de atingir objetivos.
 
 A partir das orientações técnicas sugeridas pelas seções:
