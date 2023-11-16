@@ -2,7 +2,7 @@
   
 ## Para o que mudar
 
-Não podemos esquecer que para evoluir a telecomunicação no condomínio é preciso despertar interesse de diferentes provedores de acesso. Temos hoje em dia a Claro Net e a Sky atendendo Internet e Tv a cabo e empresas menores como a Novanet e a Conecta, provendo serviços de Internet. Recentemente (março 2022), a Telecall se interessou em viabilizar a chegada de uma opção de fibra ótica ao CRRC.
+Não podemos esquecer que para evoluir a telecomunicação no condomínio é preciso despertar interesse de diferentes provedores de acesso. Temos hoje em dia a Claro Net, a Sky e a Oi Fibra atendendo Internet e Tv a cabo. Temos outras empresas menores como a Novanet e a Conecta, provendo serviços de Internet.
 
 Contudo, não temos controle sobre a decisão de investidores em trazer sinais de fibra ótica até a porta do condomínio. Precisamos reduzir os riscos de implantação para atrair as melhores empresas. Isso siginifica facilitar ao máximo a distribuição interna de cabos entre a portaria, a sede, os blocos e daí para nossos apartamentos.
 
