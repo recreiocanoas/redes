@@ -3,11 +3,21 @@
   
 ## Como mudar a água
 
-O CRRC é privilegiado por ser um condomínio com 200 unidades residenciais que compartilham uma rara fonte de água natural, vulgarmente conhecido como nosso poço. Um volume dessa água subterrânea é bombeado para um cartão postal, nosso portentoso castelo. Daí em diante, os encanamentos alimentam os blocos, mantendo cheias as caixas d´água que utilizamos em nossas casas.
+O CRRC é privilegiado por ser um condomínio com 200 unidades residenciais que compartilham uma fonte de água natural, reconhecido por todos como "nosso poço".
 
-Como monitorar a água nas caixas do castelo e dos blocos?
+![Poço](crrc-fonte.jpg)
 
-Tentando responder à [questão](../agua.md) já mencionada, está sendo desenvolvido o projeto IoT Canoas, descrito a seguir.
+Um volume dessa água subterrânea é ininterruptamente bombeado para outro portentoso cartão postal Canoense, o "nosso castelo".
+
+![Castelo](crrc-castelo.jpg)
+
+É necessário que haja um sincronismo perfeito da mãe natureza com "nosso par" para que os encanamentos que alimentam as caixas dos "nossos blocos" mantenham o fornecimento d´água que utilizamos em "nossas casas".
+
+![Alimentação água](crrc-alimenta-castelo.jpg)
+
+A principal pergunta que surge é: **Como monitorar a água armazenada no castelo?**
+
+Tentando responder à [questão levantada](../agua.md), está sendo desenvolvido o projeto IoT Canoas, descrito a seguir.
 
 ## IoT Canoas
 
@@ -15,7 +25,15 @@ A sigla IoT (Internet of Things) é bastante genérica e serve para identificar 
 
 Em nosso caso, o projeto *IoT Canoas* iniciou instalando um sensor laser no castelo para medir o nível da água em tempo real. Isso significa que poderemos monitorar a água no castelo.
 
-Para quem se interessar, há uma referência técnica do projeto [iot-tofu](https://github.com/josemotta/iot-tofu). Tendo em vista o período experimental inicial de testes e desenvolvimento, os equipamentos estão sendo instalados sem custo para o CRRC. Conta-se também com ajuda eventual dos funcionários para agilizar a instalação.
+![Sensor laser](crrc-sensor2-castelo.jpg)
+
+O sensor laser é conectado através de um módulo contendo um micro computador.
+
+![Microcomputador](crrc-modulo2-castelo.jpg)
+
+Para quem se interessar, favor consultar a referência técnica do projeto [iot-tofu](https://github.com/josemotta/iot-tofu).
+
+Tendo em vista o período experimental inicial de testes e desenvolvimento, os equipamentos estão sendo instalados sem custo para o CRRC. Conta-se também com ajuda eventual dos funcionários para agilizar as instalações.
 
 
 
