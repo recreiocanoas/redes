@@ -41,7 +41,7 @@ Repare que o nível da água desce durante o dia, pois a combinação de bombas 
 
 ## Mais informações
 
-- Para quem se interessar em saber mais, favor consultar a referência técnica no [repositório iot-tofu](https://github.com/josemotta/iot-tofu). Veja mais da construção e testes do [sensor laser](https://github.com/josemotta/iot-tofu/tree/main/rpi/vl53l1x/ha#readme).
+- Para quem se interessar em saber mais, favor consultar a referência técnica no [repositório iot-tofu](https://github.com/josemotta/iot-tofu) que mostra fases da construção e testes do [sensor laser](https://github.com/josemotta/iot-tofu/tree/main/rpi/vl53l1x/ha#readme).
 
 - A continuidade do desenvolvimento do projeto irá converter as medidas em números mais naturais, mostrando o nível da água, por exemplo. Para isso, são necessários trabalhos adicionais de medição do Castelo em si, como a altura total da caixa d´água.
 
