@@ -19,15 +19,15 @@ A principal pergunta que surge é: **Como monitorar a água armazenada no castel
 
 Tentando responder à [questão levantada](../agua.md), está sendo desenvolvido o projeto IoT Canoas, descrito a seguir.
 
-## IoT Canoas
+## Como monitorar a água no Castelo Canoas?
 
 A sigla IoT (Internet of Things) é bastante genérica e serve para identificar uma relação simbiótica entre computadores de todos os tamanhos, sobretudo os menores, e as redes de comunicação, desde redes locais até a vastidão da Internet.
 
-Em nosso caso, o projeto *IoT Canoas* iniciou instalando um sensor laser no castelo para medir o nível da água em tempo real. Isso significa que poderemos monitorar a água no castelo. Como mostra a figura abaixo, o sensor laser está medindo a distância entre o topo da caixa do castelo e a superfície da água. Ou seja, quanto maior a distância medida, mais baixo estará o nível da água na caixa.
+Um projeto batizado de *IoT Canoas* iniciou com a instalação de um sensor laser no castelo para medir o nível da água em tempo real. Isso significa que poderemos monitorar a água no castelo. Como mostra a figura abaixo, o sensor laser está medindo a distância entre o topo da caixa e a superfície da água. Ou seja, quanto maior a distância medida, mais baixo estará o nível da água na caixa do Castelo.
 
 ![Sensor laser](crrc-sensor2-castelo.jpg)
 
-O sensor laser é conectado através de um módulo contendo um micro computador, alimentado através do cabo da rede, usando a tecnologia PoE (Power over Ethernet). Com isso, não é necessário haver instalação elétrica, o cabo da rede é o que basta para fornecer alimentação e comunicação ao módulo do microcomputador.
+O sensor laser é conectado a um módulo contendo um micro computador, alimentado através do cabo da rede, usando a tecnologia PoE (Power over Ethernet). Com isso, não é necessário haver instalação elétrica, o cabo da rede basta para prover alimentação e comunicação ao módulo do microcomputador. Veja abaixo a sua instalação na base da escada de acesso.
 
 ![Microcomputador](crrc-modulo2-castelo.jpg)
 
