@@ -15,9 +15,9 @@ Um volume dessa água subterrânea é ininterruptamente bombeado para outro port
 
 ![Alimentação água](crrc-alimenta-castelo.jpg)
 
-A principal pergunta que surge é: **Como monitorar a água armazenada no castelo?**
+A principal pergunta que fica é: **Como monitorar a nossa água?**
 
-Tentando responder à [questão levantada](../agua.md), está sendo desenvolvido o projeto IoT Canoas, descrito a seguir.
+Tentando responder à [questão levantada](../agua.md), está sendo desenvolvido o projeto descrito a seguir.
 
 ## Como monitorar a água no Castelo Canoas?
 
