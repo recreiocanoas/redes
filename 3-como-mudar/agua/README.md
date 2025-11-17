@@ -35,7 +35,7 @@ O sensor laser é conectado a um módulo contendo um micro computador, alimentad
 
 Os primeiros resultados obtidos após as instalações do primeiro módulo e do sensor laser estão apresentados a seguir. Cabe de novo ressaltar que as medidas obtidas em tempo real pelo sensor laser monitoram a distância da água ao **topo** da caixa. Quanto **maior** o valor medido, **menor** é o nível da água na caixa.
 
-![Medidas](crrc-medidas.jpg)
+![Medidas](crrc-medidas.png)
 
 
 
