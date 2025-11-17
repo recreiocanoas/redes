@@ -5,7 +5,7 @@
 
 O CRRC é privilegiado por ser um condomínio com 200 unidades residenciais que compartilham uma fonte de água natural, reconhecido por todos como "nosso poço".
 
-![Poço](crrc-fonte.jpg)
+![Poço](crrc-fonte2.jpg)
 
 Um volume dessa água subterrânea é ininterruptamente bombeado para outro portentoso cartão postal Canoense, o "nosso castelo".
 
