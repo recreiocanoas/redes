@@ -43,7 +43,7 @@ Repare que o nível da água desce durante o dia, pois a combinação de bombas 
 
 - Para quem se interessar em saber mais detalhes, favor consultar a referência técnica no [repositório iot-tofu](https://github.com/josemotta/iot-tofu).
 
-- A continuidade do desenvolvimento do projeto irá converter as medidas em números mais naturais, mostrando o nível da água, por exemplo. Para isso, são necessários trabalhos adicionais de medição do castelo em si, como a altura total da caixa d´água do Castelo.
+- A continuidade do desenvolvimento do projeto irá converter as medidas em números mais naturais, mostrando o nível da água, por exemplo. Para isso, são necessários trabalhos adicionais de medição do Castelo em si, como a altura total da caixa d´água.
 
 - Tendo em vista o período experimental inicial de testes e desenvolvimento, os equipamentos estão sendo instalados sem custo para o CRRC. Conta-se também com ajuda eventual dos funcionários para agilizar as instalações.
 
