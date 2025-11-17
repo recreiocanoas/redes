@@ -1,7 +1,7 @@
 # Condomínio Residencial Recreio das Canoas
 ### Rede de Distribuição de Água
   
-## Como mudar a água
+## Como mudar: água
 
 O CRRC é privilegiado por ser um condomínio com 200 unidades residenciais que compartilham uma fonte de água natural, reconhecido por todos como "nosso poço".
 
