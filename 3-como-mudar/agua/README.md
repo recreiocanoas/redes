@@ -27,13 +27,9 @@ Um projeto batizado de *IoT Canoas* iniciou com a instalação de um sensor lase
 
 ![Sensor laser](crrc-sensor2-castelo.jpg)
 
-O sensor laser é conectado a um módulo contendo um micro computador, alimentado através do cabo da rede, usando a tecnologia PoE (Power over Ethernet). Com isso, não é necessário haver instalação elétrica, o cabo da rede basta para prover alimentação e comunicação ao módulo do microcomputador. Veja abaixo a sua instalação na base da escada de acesso.
+O sensor laser é conectado a um módulo contendo um micro computador, alimentado através do cabo da rede, usando a tecnologia PoE (Power over Ethernet). Com isso, não é necessário haver instalação elétrica, o cabo da rede basta para prover alimentação e comunicação ao módulo do microcomputador. Veja abaixo a sua instalação na base da escada de acesso ao topo do Castelo.
 
 ![Microcomputador](crrc-modulo2-castelo.jpg)
-
-Para quem se interessar em saber mais detalhes, favor consultar a referência técnica do projeto [iot-tofu](https://github.com/josemotta/iot-tofu).
-
-Tendo em vista o período experimental inicial de testes e desenvolvimento, os equipamentos estão sendo instalados sem custo para o CRRC. Conta-se também com ajuda eventual dos funcionários para agilizar as instalações.
 
 ## Monitoramento do Castelo
 
@@ -41,9 +37,16 @@ Os primeiros resultados obtidos após as instalações do primeiro módulo e do 
 
 ![Medidas](crrc-medidas.jpg)
 
-Observe
 
-A continuidade do desenvolvimento do projeto irá converter as medidas em números mais naturais, mostrando o nível da água. Para isso, são necessários trabalhos de medição do castelo em si, como a altura total da caixa d´água do Castelo.
+
+## Mais informações
+
+- Para quem se interessar em saber mais detalhes, favor consultar a referência técnica do projeto [iot-tofu](https://github.com/josemotta/iot-tofu).
+
+- A continuidade do desenvolvimento do projeto irá converter as medidas em números mais naturais, mostrando o nível da água. Para isso, são necessários trabalhos de medição do castelo em si, como a altura total da caixa d´água do Castelo.
+
+- Tendo em vista o período experimental inicial de testes e desenvolvimento, os equipamentos estão sendo instalados sem custo para o CRRC. Conta-se também com ajuda eventual dos funcionários para agilizar as instalações.
+
 
 --------------------
 
