@@ -37,7 +37,7 @@ Os primeiros resultados obtidos após as instalações do primeiro módulo e do 
 
 ![Medidas](crrc-medidas.png)
 
-Repare que o nível da água desce durante o dia, pois a combinação de bombas do poço não dá conta de compoensar o alto consumo. A recuperação vem à noite. Devido ao consumo menor de todos, o poço é capaz de reabastecer o Castelo. Nota-se que o nível da água volta a cair assim que se inicia a manhã de um novo dia. O monitoramento contínuo poderá nos ajudar a tomar as decisões a respeito da capacidade de abastecimento do nosso poço, bem como nos alertar em caso de situações críticas de abastecimento.
+Repare que o nível da água desce durante o dia, pois a combinação de bombas do poço não dá conta do alto consumo. A recuperação vem à noite. Devido ao consumo menor de todos, o poço é capaz de reabastecer o Castelo. Nota-se que o nível da água volta a cair assim que se inicia a manhã de um novo dia. O monitoramento contínuo poderá nos ajudar a tomar as decisões a respeito da capacidade de abastecimento do nosso poço, bem como nos alertar em caso de situações críticas de abastecimento.
 
 ## Mais informações
 
