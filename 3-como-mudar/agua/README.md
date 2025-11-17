@@ -11,7 +11,7 @@ Um volume dessa água subterrânea é ininterruptamente bombeado para outro port
 
 ![Castelo](crrc-castelo.jpg)
 
-É necessário que haja um sincronismo perfeito da mãe natureza com "nosso par" para que os encanamentos que alimentam as caixas dos "nossos blocos" mantenham o fornecimento d´água que utilizamos em "nossas casas".
+É necessário que haja um sincronismo perfeito da mãe natureza com esse "nosso par de equipamentos" para que os encanamentos que alimentam as caixas dos "nossos blocos" mantenham o fornecimento d´água para "nossas casas".
 
 ![Alimentação água](crrc-alimenta-castelo.jpg)
 
@@ -23,19 +23,27 @@ Tentando responder à [questão levantada](../agua.md), está sendo desenvolvido
 
 A sigla IoT (Internet of Things) é bastante genérica e serve para identificar uma relação simbiótica entre computadores de todos os tamanhos, sobretudo os menores, e as redes de comunicação, desde redes locais até a vastidão da Internet.
 
-Em nosso caso, o projeto *IoT Canoas* iniciou instalando um sensor laser no castelo para medir o nível da água em tempo real. Isso significa que poderemos monitorar a água no castelo.
+Em nosso caso, o projeto *IoT Canoas* iniciou instalando um sensor laser no castelo para medir o nível da água em tempo real. Isso significa que poderemos monitorar a água no castelo. Como mostra a figura abaixo, o sensor laser está medindo a distância entre o topo da caixa do castelo e a superfície da água. Ou seja, quanto maior a distância medida, mais baixo estará o nível da água na caixa.
 
 ![Sensor laser](crrc-sensor2-castelo.jpg)
 
-O sensor laser é conectado através de um módulo contendo um micro computador.
+O sensor laser é conectado através de um módulo contendo um micro computador, alimentado através do cabo da rede, usando a tecnologia PoE (Power over Ethernet). Com isso, não é necessário haver instalação elétrica, o cabo da rede é o que basta para fornecer alimentação e comunicação ao módulo do microcomputador.
 
 ![Microcomputador](crrc-modulo2-castelo.jpg)
 
-Para quem se interessar, favor consultar a referência técnica do projeto [iot-tofu](https://github.com/josemotta/iot-tofu).
+Para quem se interessar em saber mais detalhes, favor consultar a referência técnica do projeto [iot-tofu](https://github.com/josemotta/iot-tofu).
 
 Tendo em vista o período experimental inicial de testes e desenvolvimento, os equipamentos estão sendo instalados sem custo para o CRRC. Conta-se também com ajuda eventual dos funcionários para agilizar as instalações.
 
+## Monitoramento do Castelo
 
+Os primeiros resultados obtidos após as instalações do primeiro módulo e do sensor laser estão apresentados a seguir. Cabe de novo ressaltar que as medidas obtidas em tempo real pelo sensor laser monitoram a distância da água ao **topo** da caixa. Quanto **maior** o valor medido, **menor** é o nível da água na caixa.
+
+![Medidas](crrc-medidas.jpg)
+
+Observe
+
+A continuidade do desenvolvimento do projeto irá converter as medidas em números mais naturais, mostrando o nível da água. Para isso, são necessários trabalhos de medição do castelo em si, como a altura total da caixa d´água do Castelo.
 
 --------------------
 
