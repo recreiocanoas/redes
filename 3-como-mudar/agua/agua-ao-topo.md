@@ -3,7 +3,7 @@
   
 ## agua-ao-topo
 
-Após passados duas semanas da [instalação do sensor laser no Castelo Canoas](./README.md) nos deparamos com uma forma dinâmica, porém precisa, e certamente inusitada de avaliação de nosso consumo de água. Essa medida foi batizada, por motivos óbvios, de agua-ao-topo e representa as medidas obtidas em tempo real pelo sensor laser que monitoram a distância da água ao **topo** da caixa. Quanto **maior** o valor medido, **menor** é o nível da água na caixa.
+Após passados duas semanas da [instalação do sensor laser no Castelo Canoas](./README.md) nos deparamos com uma forma dinâmica, porém precisa, e certamente inusitada de avaliação de nosso consumo de água. Essa medida foi batizada, por motivos óbvios, de **agua-ao-topo** e representa as medidas obtidas em tempo real pelo sensor laser que monitoram a distância da água ao **topo** da caixa. Quanto **maior** o valor medido, **menor** é o nível da água na caixa.
 
 ![Medidas](crrc-medidas-agua-ao-topo.png)
 
