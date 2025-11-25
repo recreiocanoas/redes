@@ -37,6 +37,8 @@ Os primeiros resultados obtidos após as instalações do módulo microcomputado
 
 ![Medidas](crrc-medidas.png)
 
+Veja mais detalhes da medida de consumo de água que será empregada: [agua-ao-topo](./agua-ao-topo.md)
+
 ## Mais informações
 
 - Para quem se interessar em saber mais, favor consultar a referência técnica no [repositório iot-tofu](https://github.com/josemotta/iot-tofu) que mostra fases da construção e testes do [sensor laser](https://github.com/josemotta/iot-tofu/tree/main/rpi/vl53l1x/ha#readme).
