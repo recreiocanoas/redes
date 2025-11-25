@@ -37,8 +37,6 @@ Os primeiros resultados obtidos após as instalações do módulo microcomputado
 
 ![Medidas](crrc-medidas.png)
 
-Repare que o nível da água desce durante o dia, pois a combinação de bombas do poço não dá conta do alto consumo. A recuperação vem à noite. Devido ao consumo menor de todos, o poço é capaz de reabastecer o Castelo. Nota-se que o nível da água volta a cair assim que se inicia a manhã de um novo dia. O monitoramento contínuo poderá nos ajudar a tomar as decisões a respeito da capacidade do nosso poço, bem como nos alertar em caso de situações críticas de abastecimento.
-
 ## Mais informações
 
 - Para quem se interessar em saber mais, favor consultar a referência técnica no [repositório iot-tofu](https://github.com/josemotta/iot-tofu) que mostra fases da construção e testes do [sensor laser](https://github.com/josemotta/iot-tofu/tree/main/rpi/vl53l1x/ha#readme).
