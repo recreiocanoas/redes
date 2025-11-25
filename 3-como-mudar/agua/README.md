@@ -37,7 +37,7 @@ Os primeiros resultados obtidos após as instalações do módulo microcomputado
 
 ![Medidas](crrc-medidas.png)
 
-Veja no link mais detalhes do consumo de água durante a semana e da medida [agua-ao-topo](./agua-ao-topo.md).
+Veja mais detalhes do consumo de água em Canoas durante uma semana, utilizando o gráfico do histórico da medida [agua-ao-topo](./agua-ao-topo.md).
 
 
 ## Mais informações
