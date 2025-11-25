@@ -15,4 +15,4 @@ A cada vez, é bombeado o volume de um pequeno tanque que temos ao lado do poço
 
 Outra verificação interessante é a interferência "precisa" da luz do sol nas medidas do laser. O [agito da água na hora do bombeamento](./crrc-alimenta-castelo.jpg) deve gerar medidas das ondulações e respingos, creio. São traços verticais, de dia geralmente, creio que raios do sol interferem também, com reflexos nos respingos. São informações que precisam ser mais estudadas.
 
-Outra área de investigação seria a introdução de alarmes de níveis muito baixos de água. Pode também identificar  transbordos iminentes, como os registrados no meio do gráfico, de apenas alguns milímetros.
+Outra área de investigação seria a introdução de alarmes de níveis muito baixos de água. Pode também identificar  transbordos iminentes, como os registrados no meio do gráfico. Repare que o valor de **agua-ao-topo** caiu quase a zero, foram registrados até 6 milímetros nesse período.
