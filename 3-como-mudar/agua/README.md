@@ -37,7 +37,8 @@ Os primeiros resultados obtidos após as instalações do módulo microcomputado
 
 ![Medidas](crrc-medidas.png)
 
-Veja mais detalhes da medida de consumo de água que será empregada: [agua-ao-topo](./agua-ao-topo.md)
+Veja no link mais detalhes do consumo de água durante a semana e da medida [agua-ao-topo](./agua-ao-topo.md).
+
 
 ## Mais informações
 
