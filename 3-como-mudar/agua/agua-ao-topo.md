@@ -11,8 +11,8 @@ Repare que o nível da água desce durante o dia, pois a combinação de bombas 
 
 Como curiosidade, nos detalhes pode-se perceber que o sensor laser é preciso e rápido para registrar, através dos traços verticais no gráfico, as ondulações criadas pelo repentino jato de água após cada ciclo da bomba ligando para abastecer o Castelo. Com isso, podemos verificar que o alto consumo é indicado pela alta frequência de acionamento da bomba de reabastecimento que vem do poço.
 
-A cada ligada é bombeado o volume de um pequeno tanque que temos ao lado do poço, ou seja, o volume bombeado é uma constante, e termina quando acaba o tanque. Quantas vezes mais bombeamos, maior o consumo. Repare que à noite a frequência diminue.
+A cada vez, é bombeado o volume de um pequeno tanque que temos ao lado do poço, ou seja, o volume constante termina quando acaba o tanque. Quantas vezes mais bombeamos, maior o consumo. Repare que à noite a frequência diminue.
 
-Outra verificação interessante é a interferência "precisa" da luz do sol nas medidas do laser. O agito da água na hora do bombeamento permite ver as medidas dos "respingos", creio. São os traços verticais que aparecem de dia geralmente, creio que são os raios do sol interferindo com reflexos nos respingos. São informações que precisam ser mais estudadas.
+Outra verificação interessante é a interferência "precisa" da luz do sol nas medidas do laser. O agito da água na hora do bombeamento permite ver as medidas dos "respingos", creio. São traços verticais, de dia geralmente, creio que raios do sol interferem com reflexos nos respingos. São informações que precisam ser mais estudadas.
 
 Outra área de investigação seria a introdução de alarmes de níveis muito baixos de água. Pode também identificar  transbordos iminentes, como os registrados no meio do gráfico, de apenas alguns milímetros.
