@@ -13,6 +13,6 @@ Como curiosidade, nos detalhes pode-se perceber que o sensor laser é preciso e 
 
 A cada vez, é bombeado o volume de um pequeno tanque que temos ao lado do poço, ou seja, o volume constante termina quando acaba o tanque. Quantas vezes mais bombeamos, maior o consumo. Repare que à noite a frequência diminue.
 
-Outra verificação interessante é a interferência "precisa" da luz do sol nas medidas do laser. O agito da água na hora do bombeamento permite ver as medidas dos "respingos", creio. São traços verticais, de dia geralmente, creio que raios do sol interferem com reflexos nos respingos. São informações que precisam ser mais estudadas.
+Outra verificação interessante é a interferência "precisa" da luz do sol nas medidas do laser. O [agito da água na hora do bombeamento](./crrc-alimenta-castelo.jpg) deve gerar medidas das ondulações e respingos, creio. São traços verticais, de dia geralmente, creio que raios do sol interferem também, com reflexos nos respingos. São informações que precisam ser mais estudadas.
 
 Outra área de investigação seria a introdução de alarmes de níveis muito baixos de água. Pode também identificar  transbordos iminentes, como os registrados no meio do gráfico, de apenas alguns milímetros.
