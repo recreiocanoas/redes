@@ -9,7 +9,7 @@ Segue histórico do final de 2025, em que houve um período normal de abastecime
 
 A partir daí, vê-se que o consumo excedeu a capacidade do nosso poço, levando o valor de **agua-ao-topo** ao seu limite máximo de 3 metros. Com essa chegada ao *fundo do poço*, houve desabastecimento e a necessidade de uma operação manual dos funcionários para manter as caixas dos blocos abastecidas com água.  Felizmente, o ano de 2026 entrou com a operação do poço voltando ao normal, com abastecimento automático das caixas dos blocos.
 
-Um evento interessante ocorreu dia 31, com uma estranha interferência no sensor. Era um papa-moscas que havia se instalado na ponta do sensor laser! Foi devidamente despejado ...
+Um evento interessante ocorreu dia 31, com uma estranha interferência nas medidas do sensor, parecia que o castelo tinha enchido rapidamente. Era um papa-moscas que havia se instalado na ponta do sensor laser! Foi devidamente despejado ...
   
 ## agua-ao-topo
 
