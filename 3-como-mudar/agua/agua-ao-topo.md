@@ -15,6 +15,8 @@ Um evento interessante ocorreu dia 31, com uma estranha interferência nas medid
 
 Após duas semanas da [instalação do sensor laser no Castelo Canoas](./README.md) nos deparamos com uma forma dinâmica, porém precisa, e certamente inusitada de avaliação de nosso consumo de água. Essa medida foi batizada, por motivos óbvios, de **agua-ao-topo** e representa as medidas obtidas em tempo real pelo sensor laser que monitoram a distância da água ao **topo** da caixa. Quanto **maior** o valor medido, **menor** é o nível da água na caixa.
 
+Uma forma prática de entender o gráfico de **agua-ao-topo** seria imaginar a caixa d´água vista de cabeça para baixo.
+
 ![Medidas](crrc-medidas-agua-ao-topo-week.png)
 
 Repare que o nível da água desce durante o dia, pois a combinação de bombas do poço não dá conta do alto consumo. A recuperação vem à noite. Devido ao consumo menor de todos, o poço é capaz de reabastecer o Castelo. Nota-se que o nível da água volta a cair assim que se inicia a manhã de um novo dia. O monitoramento contínuo poderá nos ajudar a tomar as decisões a respeito da capacidade do nosso poço, bem como nos alertar em caso de situações críticas de abastecimento.
